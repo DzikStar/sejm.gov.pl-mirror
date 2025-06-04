@@ -1,1 +1,0 @@
-# sejm.gov.pl-mirror
