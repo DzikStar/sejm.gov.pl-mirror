@@ -39153,6 +39153,23 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1270 - projekt aktu wykonawczego"
+            },
+            {
+                "attachments": [
+                    "1270-003.pdf"
+                ],
+                "changeDate": "2025-06-06T13:43:20",
+                "deliveryDate": "2025-06-06",
+                "documentDate": "2025-06-05",
+                "number": "1270-003",
+                "numberAssociated": [
+                    "1270"
+                ],
+                "processPrint": [
+                    "1270"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1270 - opinia RGNiSW"
             }
         ],
         "attachments": [
@@ -39591,7 +39608,8 @@
         "attachments": [
             "1288.pdf"
         ],
-        "changeDate": "2025-06-06T09:33:43",
+        "changeDate": "2025-06-06T13:44:21",
+        "deliveryDate": "2025-06-06",
         "documentDate": "2025-06-04",
         "number": "1288",
         "processPrint": [
@@ -39604,7 +39622,8 @@
         "attachments": [
             "1289.pdf"
         ],
-        "changeDate": "2025-06-06T09:38:07",
+        "changeDate": "2025-06-06T13:44:03",
+        "deliveryDate": "2025-06-06",
         "documentDate": "2025-06-04",
         "number": "1289",
         "processPrint": [
@@ -39874,6 +39893,25 @@
         "title": "Rządowy projekt ustawy o uchyleniu ustawy o Centralnej Informacji Emerytalnej."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1308-001.pdf"
+                ],
+                "changeDate": "2025-06-06T13:43:33",
+                "deliveryDate": "2025-06-06",
+                "documentDate": "2025-06-05",
+                "number": "1308-001",
+                "numberAssociated": [
+                    "1308"
+                ],
+                "processPrint": [
+                    "1308"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1308 - opinia RGNiSW"
+            }
+        ],
         "attachments": [
             "1308.pdf",
             "1308-ustawa.docx",
@@ -40058,7 +40096,8 @@
                 "attachments": [
                     "1317-002.pdf"
                 ],
-                "changeDate": "2025-06-06T13:37:50",
+                "changeDate": "2025-06-06T13:43:46",
+                "deliveryDate": "2025-06-06",
                 "documentDate": "2025-06-05",
                 "number": "1317-002",
                 "numberAssociated": [
