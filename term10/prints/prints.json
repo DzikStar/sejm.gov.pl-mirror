@@ -39018,6 +39018,22 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1265 - opinia SN (nie zgłoszono uwag)"
+            },
+            {
+                "attachments": [
+                    "1265-002.pdf"
+                ],
+                "changeDate": "2025-06-09T09:00:08",
+                "documentDate": "2025-06-04",
+                "number": "1265-002",
+                "numberAssociated": [
+                    "1265"
+                ],
+                "processPrint": [
+                    "1265"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1265 - opinia NBP (nie zgłoszono uwag)"
             }
         ],
         "attachments": [
@@ -39170,6 +39186,70 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1270 - opinia RGNiSW"
+            },
+            {
+                "attachments": [
+                    "1270-004.pdf"
+                ],
+                "changeDate": "2025-06-09T08:56:39",
+                "documentDate": "2025-06-02",
+                "number": "1270-004",
+                "numberAssociated": [
+                    "1270"
+                ],
+                "processPrint": [
+                    "1270"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1270 - opinia KRASP (nie zgłoszono uwag)"
+            },
+            {
+                "attachments": [
+                    "1270-005.pdf"
+                ],
+                "changeDate": "2025-06-09T08:57:27",
+                "documentDate": "2025-06-04",
+                "number": "1270-005",
+                "numberAssociated": [
+                    "1270"
+                ],
+                "processPrint": [
+                    "1270"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1270 - opinia NBP (nie zgłoszono uwag)"
+            },
+            {
+                "attachments": [
+                    "1270-006.pdf"
+                ],
+                "changeDate": "2025-06-09T08:58:21",
+                "documentDate": "2025-06-05",
+                "number": "1270-006",
+                "numberAssociated": [
+                    "1270"
+                ],
+                "processPrint": [
+                    "1270"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1270 - opinia RF (nie zgłoszono uwag)"
+            },
+            {
+                "attachments": [
+                    "1270-007.pdf"
+                ],
+                "changeDate": "2025-06-09T08:59:22",
+                "documentDate": "2025-06-05",
+                "number": "1270-007",
+                "numberAssociated": [
+                    "1270"
+                ],
+                "processPrint": [
+                    "1270"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1270 - opinia NRL"
             }
         ],
         "attachments": [
