@@ -38253,7 +38253,7 @@
                 "attachments": [
                     "1232-002.pdf"
                 ],
-                "changeDate": "2025-06-10T13:18:07",
+                "changeDate": "2025-06-10T13:31:35",
                 "documentDate": "2025-06-09",
                 "number": "1232-002",
                 "numberAssociated": [
@@ -40745,7 +40745,7 @@
             "1342-ustawa.docx",
             "1342-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-10T12:39:55",
+        "changeDate": "2025-06-10T13:28:25",
         "documentDate": "2025-06-06",
         "number": "1342",
         "processPrint": [
@@ -40760,7 +40760,7 @@
             "1343-ustawa.docx",
             "1343-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-10T12:46:42",
+        "changeDate": "2025-06-10T13:28:59",
         "documentDate": "2025-06-05",
         "number": "1343",
         "processPrint": [
@@ -40775,7 +40775,7 @@
             "1344-ustawa.docx",
             "1344-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-10T12:51:16",
+        "changeDate": "2025-06-10T13:30:18",
         "documentDate": "2025-06-06",
         "number": "1344",
         "processPrint": [
@@ -40788,12 +40788,14 @@
         "attachments": [
             ""
         ],
-        "changeDate": "2025-06-10T12:50:56",
+        "changeDate": "2025-06-10T13:34:41",
         "documentDate": "2025-02-11",
         "number": "1345",
-        "processPrint": [],
+        "processPrint": [
+            "1345"
+        ],
         "term": 10,
-        "title": "Poselski projekt ustawy o zawodzie psychoterapeuty orz samorządzie zawodowym."
+        "title": "Poselski projekt ustawy o zawodzie psychoterapeuty oraz samorządzie zawodowym."
     },
     {
         "attachments": [
@@ -40801,7 +40803,7 @@
             "1346-ustawa.docx",
             "1346-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-10T13:21:57",
+        "changeDate": "2025-06-10T13:30:56",
         "documentDate": "2025-05-21",
         "number": "1346",
         "processPrint": [
@@ -40816,7 +40818,7 @@
             "1347-ustawa.docx",
             "1347-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-10T13:15:32",
+        "changeDate": "2025-06-10T13:31:23",
         "documentDate": "2025-05-22",
         "number": "1347",
         "processPrint": [
