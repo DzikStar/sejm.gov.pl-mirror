@@ -40532,6 +40532,23 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1320 - opinia ZBP"
+            },
+            {
+                "attachments": [
+                    "1320-005.pdf"
+                ],
+                "changeDate": "2025-06-10T17:05:28",
+                "deliveryDate": "2025-06-10",
+                "documentDate": "2025-06-10",
+                "number": "1320-005",
+                "numberAssociated": [
+                    "1320"
+                ],
+                "processPrint": [
+                    "1320"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1320 - ocena skutków regulacji"
             }
         ],
         "attachments": [
@@ -40843,10 +40860,10 @@
     },
     {
         "attachments": [
-            "1345.pdf",
-            "1345-ustawa i uzasadnienie.docx"
+            "1345-ustawa i uzasadnienie.docx",
+            "1345.pdf"
         ],
-        "changeDate": "2025-06-10T15:03:41",
+        "changeDate": "2025-06-10T16:58:08",
         "deliveryDate": "2025-06-10",
         "documentDate": "2025-02-11",
         "number": "1345",
@@ -40907,7 +40924,8 @@
         "attachments": [
             "1350.pdf"
         ],
-        "changeDate": "2025-06-10T16:51:49",
+        "changeDate": "2025-06-10T17:05:42",
+        "deliveryDate": "2025-06-10",
         "documentDate": "2025-06-10",
         "number": "1350",
         "processPrint": [
