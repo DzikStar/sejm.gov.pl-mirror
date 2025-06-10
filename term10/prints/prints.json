@@ -38248,6 +38248,22 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1232 - opinia SN (nie zgłoszono uwag)"
+            },
+            {
+                "attachments": [
+                    "1232-002.pdf"
+                ],
+                "changeDate": "2025-06-10T13:18:07",
+                "documentDate": "2025-06-09",
+                "number": "1232-002",
+                "numberAssociated": [
+                    "1232"
+                ],
+                "processPrint": [
+                    "1232"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1232 - opinia OPZZ"
             }
         ],
         "attachments": [
@@ -40781,23 +40797,31 @@
     },
     {
         "attachments": [
-            ""
+            "1346.pdf",
+            "1346-ustawa.docx",
+            "1346-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-10T12:48:37",
+        "changeDate": "2025-06-10T13:21:57",
         "documentDate": "2025-05-21",
         "number": "1346",
-        "processPrint": [],
+        "processPrint": [
+            "1346"
+        ],
         "term": 10,
         "title": "Poselski projekt ustawy o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz niektórych innych ustaw."
     },
     {
         "attachments": [
-            ""
+            "1347.pdf",
+            "1347-ustawa.docx",
+            "1347-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-10T12:50:56",
+        "changeDate": "2025-06-10T13:15:32",
         "documentDate": "2025-05-22",
         "number": "1347",
-        "processPrint": [],
+        "processPrint": [
+            "1347"
+        ],
         "term": 10,
         "title": "Poselski projekt ustawy o zmianie ustawy o wielkoobszarowych terenach zdegradowanych oraz ustawy - Prawo ochrony środowiska."
     },
@@ -40806,7 +40830,7 @@
             "1348.pdf",
             "1348-ustawa i uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-10T12:48:31",
+        "changeDate": "2025-06-10T13:27:27",
         "documentDate": "2025-03-19",
         "number": "1348",
         "processPrint": [
