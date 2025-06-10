@@ -40740,23 +40740,31 @@
     },
     {
         "attachments": [
-            ""
+            "1343.pdf",
+            "1343-ustawa.docx",
+            "1343-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-10T12:34:41",
+        "changeDate": "2025-06-10T12:46:42",
         "documentDate": "2025-06-05",
         "number": "1343",
-        "processPrint": [],
+        "processPrint": [
+            "1343"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawy o ewidencji ludności."
     },
     {
         "attachments": [
-            ""
+            "1344.pdf",
+            "1344-ustawa.docx",
+            "1344-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-10T12:39:36",
+        "changeDate": "2025-06-10T12:51:16",
         "documentDate": "2025-06-06",
         "number": "1344",
-        "processPrint": [],
+        "processPrint": [
+            "1344"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zawodzie psychologa oraz samorządzie zawodowym psychologów."
     },
@@ -40764,10 +40772,46 @@
         "attachments": [
             ""
         ],
-        "changeDate": "2025-06-10T12:34:41",
+        "changeDate": "2025-06-10T12:50:56",
+        "documentDate": "2025-02-11",
+        "number": "1345",
+        "processPrint": [],
+        "term": 10,
+        "title": "Poselski projekt ustawy o zawodzie psychoterapeuty orz samorządzie zawodowym."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-06-10T12:48:37",
+        "documentDate": "2025-05-21",
+        "number": "1346",
+        "processPrint": [],
+        "term": 10,
+        "title": "Poselski projekt ustawy o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-06-10T12:50:56",
+        "documentDate": "2025-05-22",
+        "number": "1347",
+        "processPrint": [],
+        "term": 10,
+        "title": "Poselski projekt ustawy o zmianie ustawy o wielkoobszarowych terenach zdegradowanych oraz ustawy - Prawo ochrony środowiska."
+    },
+    {
+        "attachments": [
+            "1348.pdf",
+            "1348-ustawa i uzasadnienie.docx"
+        ],
+        "changeDate": "2025-06-10T12:48:31",
         "documentDate": "2025-03-19",
         "number": "1348",
-        "processPrint": [],
+        "processPrint": [
+            "1348"
+        ],
         "term": 10,
         "title": "Poselski projekt ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych."
     }
