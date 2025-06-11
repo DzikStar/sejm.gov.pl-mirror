@@ -40777,6 +40777,25 @@
         "title": "Sprawozdanie Komisji do Spraw Deregulacji oraz Komisji Finansów Publicznych o rządowym projekcie ustawy o zmianie ustawy o Krajowej Administracji Skarbowej oraz ustawy o podatku od towarów i usług."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1333-001.pdf"
+                ],
+                "changeDate": "2025-06-11T19:11:50",
+                "deliveryDate": "2025-06-11",
+                "documentDate": "2025-06-11",
+                "number": "1333-001",
+                "numberAssociated": [
+                    "1333"
+                ],
+                "processPrint": [
+                    "1232"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1333 - zmiana posła sprawozdawcy"
+            }
+        ],
         "attachments": [
             "1333.pdf"
         ],
@@ -40986,5 +41005,16 @@
         ],
         "term": 10,
         "title": "Wniosek Prezesa Rady Ministrów o wyrażenie przez Sejm Rzeczypospolitej Polskiej wotum zaufania Radzie Ministrów."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-06-11T19:05:22",
+        "documentDate": "2025-06-11",
+        "number": "1352",
+        "processPrint": [],
+        "term": 10,
+        "title": "Uchwała Senatu w sprawie ustawy o zmianie ustawy o repatriacji oraz niektórych innych ustaw."
     }
 ]
