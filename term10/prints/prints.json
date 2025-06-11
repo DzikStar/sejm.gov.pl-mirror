@@ -41008,12 +41008,16 @@
     },
     {
         "attachments": [
-            ""
+            "1352.pdf",
+            "1352-uchwała.docx"
         ],
-        "changeDate": "2025-06-11T19:05:22",
+        "changeDate": "2025-06-11T19:49:48",
+        "deliveryDate": "2025-06-11",
         "documentDate": "2025-06-11",
         "number": "1352",
-        "processPrint": [],
+        "processPrint": [
+            "1201"
+        ],
         "term": 10,
         "title": "Uchwała Senatu w sprawie ustawy o zmianie ustawy o repatriacji oraz niektórych innych ustaw."
     }
