@@ -40710,12 +40710,16 @@
     },
     {
         "attachments": [
-            ""
+            "1326.pdf",
+            "V8_2593-0.PK.docx"
         ],
-        "changeDate": "2025-06-12T15:16:39",
+        "changeDate": "2025-06-12T15:29:33",
+        "deliveryDate": "2025-06-12",
         "documentDate": "2025-06-03",
         "number": "1326",
-        "processPrint": [],
+        "processPrint": [
+            "1262"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji Finansów Publicznych o rządowym projekcie ustawy o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego oraz emitowaniem europejskich zielonych obligacji."
     },
