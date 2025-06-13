@@ -40018,6 +40018,20 @@
     },
     {
         "attachments": [
+            "1300.pdf",
+            "V3_UCH_10_329.docx"
+        ],
+        "changeDate": "2025-06-13T11:15:37",
+        "documentDate": "2025-06-04",
+        "number": "1300",
+        "processPrint": [
+            "1043"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji do Spraw Unii Europejskiej o poselskich projektach uchwał: w sprawie niewprowadzania w życie przepisów aktów prawnych składających się na tzw. Pakt o migracji i azylu, w sprawie zobowiązania Rządu RP do jednostronnego wypowiedzenia Paktu Migracyjnego oraz w sprawie polityki migracyjnej i ochrony wschodniej granicy Rzeczypospolitej Polskiej."
+    },
+    {
+        "attachments": [
             "1301.pdf"
         ],
         "changeDate": "2025-06-03T14:50:47",
@@ -40918,12 +40932,14 @@
     },
     {
         "attachments": [
-            ""
+            "1340.pdf"
         ],
-        "changeDate": "2025-06-13T10:46:51",
+        "changeDate": "2025-06-13T10:51:17",
         "documentDate": "2025-06-04",
         "number": "1340",
-        "processPrint": [],
+        "processPrint": [
+            "609"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji Cyfryzacji, Innowacyjności i Nowoczesnych Technologii o poselskim projekcie ustawy o zmianie ustawy o doręczeniach elektronicznych."
     },
