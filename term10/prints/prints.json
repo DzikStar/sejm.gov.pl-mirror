@@ -39695,6 +39695,23 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1281 - opinia SN (nie zgłoszono uwag)"
+            },
+            {
+                "attachments": [
+                    "1281-002.pdf"
+                ],
+                "changeDate": "2025-06-13T14:16:55",
+                "deliveryDate": "2025-06-13",
+                "documentDate": "2025-06-09",
+                "number": "1281-002",
+                "numberAssociated": [
+                    "1281"
+                ],
+                "processPrint": [
+                    "1281"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1281 - opinia NBP (nie zgłoszono uwag)"
             }
         ],
         "attachments": [
@@ -40994,6 +41011,25 @@
         "title": "Rządowy projekt ustawy o zawodzie psychologa oraz samorządzie zawodowym psychologów."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1345-001.pdf"
+                ],
+                "changeDate": "2025-06-13T14:17:11",
+                "deliveryDate": "2025-06-13",
+                "documentDate": "2025-06-12",
+                "number": "1345-001",
+                "numberAssociated": [
+                    "1345"
+                ],
+                "processPrint": [
+                    "1345"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1345 - cofnięcie poparcia dla projektu"
+            }
+        ],
         "attachments": [
             "1345-ustawa i uzasadnienie.docx",
             "1345.pdf"
