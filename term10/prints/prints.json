@@ -41139,12 +41139,15 @@
     },
     {
         "attachments": [
-            ""
+            "1364.pdf"
         ],
-        "changeDate": "2025-06-16T14:29:59",
+        "changeDate": "2025-06-16T15:11:29",
+        "deliveryDate": "2025-06-16",
         "documentDate": "2025-06-10",
         "number": "1364",
-        "processPrint": [],
+        "processPrint": [
+            "1364"
+        ],
         "term": 10,
         "title": "Analiza wykonania budżetu państwa i założeń polityki pieniężnej w 2024 r."
     }
