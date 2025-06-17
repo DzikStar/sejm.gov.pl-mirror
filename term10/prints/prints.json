@@ -40148,6 +40148,23 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1304 - opinia PUODO"
+            },
+            {
+                "attachments": [
+                    "1304-002.pdf"
+                ],
+                "changeDate": "2025-06-17T09:25:58",
+                "deliveryDate": "2025-06-17",
+                "documentDate": "2025-06-16",
+                "number": "1304-002",
+                "numberAssociated": [
+                    "1304"
+                ],
+                "processPrint": [
+                    "1304"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1304 - opinia RF"
             }
         ],
         "attachments": [
@@ -40198,6 +40215,25 @@
         "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo bankowe oraz niektórych innych ustaw."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1307-001.pdf"
+                ],
+                "changeDate": "2025-06-17T09:25:42",
+                "deliveryDate": "2025-06-17",
+                "documentDate": "2025-06-11",
+                "number": "1307-001",
+                "numberAssociated": [
+                    "1307"
+                ],
+                "processPrint": [
+                    "1307"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1307 - opinia OFSUT"
+            }
+        ],
         "attachments": [
             "1307.pdf",
             "1307-ustawa.docx",
@@ -41141,7 +41177,7 @@
         "attachments": [
             "1364.pdf"
         ],
-        "changeDate": "2025-06-16T15:11:29",
+        "changeDate": "2025-06-17T09:27:20",
         "deliveryDate": "2025-06-16",
         "documentDate": "2025-06-10",
         "number": "1364",
