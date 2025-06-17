@@ -41160,12 +41160,16 @@
     },
     {
         "attachments": [
-            ""
+            "1351.pdf",
+            "V9_2589-0.PK.docx"
         ],
-        "changeDate": "2025-06-17T12:09:13",
+        "changeDate": "2025-06-17T12:42:29",
+        "deliveryDate": "2025-06-17",
         "documentDate": "2025-06-11",
         "number": "1351",
-        "processPrint": [],
+        "processPrint": [
+            "1203"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji Administracji i Spraw Wewnętrznych oraz Komisji Obrony Narodowej o rządowym projekcie ustawy o szczególnych zasadach przygotowania i realizacji strategicznych oraz kluczowych inwestycji w zakresie potrzeb obronności państwa i bezpieczeństwa publicznego oraz ustanawiania stref ochronnych dla niektórych terenów zamkniętych."
     },
