@@ -30511,7 +30511,8 @@
                 "attachments": [
                     "952-003.pdf"
                 ],
-                "changeDate": "2025-06-18T12:45:27",
+                "changeDate": "2025-06-18T12:57:14",
+                "deliveryDate": "2025-06-18",
                 "documentDate": "2025-06-18",
                 "number": "952-003",
                 "numberAssociated": [
@@ -39208,7 +39209,8 @@
                 "attachments": [
                     "1266-001.pdf"
                 ],
-                "changeDate": "2025-06-18T12:47:18",
+                "changeDate": "2025-06-18T12:58:03",
+                "deliveryDate": "2025-06-18",
                 "documentDate": "2025-06-18",
                 "number": "1266-001",
                 "numberAssociated": [
@@ -39445,7 +39447,8 @@
                 "attachments": [
                     "1270-009.pdf"
                 ],
-                "changeDate": "2025-06-18T12:48:55",
+                "changeDate": "2025-06-18T12:58:15",
+                "deliveryDate": "2025-06-18",
                 "documentDate": "2025-06-18",
                 "number": "1270-009",
                 "numberAssociated": [
@@ -40207,7 +40210,8 @@
                 "attachments": [
                     "1302-002.pdf"
                 ],
-                "changeDate": "2025-06-18T12:50:09",
+                "changeDate": "2025-06-18T12:58:30",
+                "deliveryDate": "2025-06-18",
                 "documentDate": "2025-06-18",
                 "number": "1302-002",
                 "numberAssociated": [
@@ -40310,7 +40314,8 @@
                 "attachments": [
                     "1304-003.pdf"
                 ],
-                "changeDate": "2025-06-18T12:51:22",
+                "changeDate": "2025-06-18T12:59:01",
+                "deliveryDate": "2025-06-18",
                 "documentDate": "2025-06-18",
                 "number": "1304-003",
                 "numberAssociated": [
@@ -40428,7 +40433,8 @@
                 "attachments": [
                     "1308-002.pdf"
                 ],
-                "changeDate": "2025-06-18T12:53:02",
+                "changeDate": "2025-06-18T12:59:28",
+                "deliveryDate": "2025-06-18",
                 "documentDate": "2025-06-18",
                 "number": "1308-002",
                 "numberAssociated": [
@@ -40457,6 +40463,25 @@
         "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1309-001.pdf"
+                ],
+                "changeDate": "2025-06-18T12:59:59",
+                "deliveryDate": "2025-06-18",
+                "documentDate": "2025-06-18",
+                "number": "1309-001",
+                "numberAssociated": [
+                    "1309"
+                ],
+                "processPrint": [
+                    "1309"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1309 - opinia  KRASP ( nie zgłoszono uwag )."
+            }
+        ],
         "attachments": [
             "1309.pdf",
             "1309-ustawa.docx",
@@ -40572,6 +40597,25 @@
         "title": "Rządowy projekt ustawy o zmianie ustawy o przetwarzaniu danych dotyczących przelotu pasażera."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1315-001.pdf"
+                ],
+                "changeDate": "2025-06-18T12:57:50",
+                "deliveryDate": "2025-06-18",
+                "documentDate": "2025-06-18",
+                "number": "1315-001",
+                "numberAssociated": [
+                    "1315"
+                ],
+                "processPrint": [
+                    "1315"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1315 - opinia NRA."
+            }
+        ],
         "attachments": [
             "1315.pdf",
             "1315-ustawa.docx"
