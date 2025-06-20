@@ -38386,6 +38386,22 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1234 - opinia SN (nie zgłoszono uwag)"
+            },
+            {
+                "attachments": [
+                    "1234-002.pdf"
+                ],
+                "changeDate": "2025-06-20T14:58:13",
+                "documentDate": "2025-06-18",
+                "number": "1234-002",
+                "numberAssociated": [
+                    "1234"
+                ],
+                "processPrint": [
+                    "1234"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1234 - opinia KRS"
             }
         ],
         "attachments": [
@@ -40514,6 +40530,24 @@
         "title": "Rządowy projekt ustawy o zmianie niektórych ustaw w celu dokonania deregulacji w zakresie energetyki."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1311-001.pdf"
+                ],
+                "changeDate": "2025-06-20T14:51:14",
+                "documentDate": "2025-06-17",
+                "number": "1311-001",
+                "numberAssociated": [
+                    "1311"
+                ],
+                "processPrint": [
+                    "1311"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1311 - opinia NBP (nie zgłoszono uwag)"
+            }
+        ],
         "attachments": [
             "1311.pdf",
             "1311-ustawa.doc",
@@ -40803,6 +40837,22 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1318 - opinia NBP (nie zgłoszono uwag)"
+            },
+            {
+                "attachments": [
+                    "1318-005.pdf"
+                ],
+                "changeDate": "2025-06-20T14:50:31",
+                "documentDate": "2025-06-16",
+                "number": "1318-005",
+                "numberAssociated": [
+                    "1318"
+                ],
+                "processPrint": [
+                    "1318"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1318 - opinia OPOS"
             }
         ],
         "attachments": [
@@ -41347,6 +41397,24 @@
         "title": "Poselski projekt ustawy o zmianie ustawy o mniejszościach narodowych i etnicznych oraz o języku regionalnym oraz niektórych innych ustaw."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1347-001.pdf"
+                ],
+                "changeDate": "2025-06-20T14:56:58",
+                "documentDate": "2025-06-18",
+                "number": "1347-001",
+                "numberAssociated": [
+                    "1347"
+                ],
+                "processPrint": [
+                    "1347"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1347 - opinia SZGiP"
+            }
+        ],
         "attachments": [
             "1347.pdf",
             "1347-ustawa.docx",
