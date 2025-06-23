@@ -41285,12 +41285,15 @@
     },
     {
         "attachments": [
-            ""
+            "1333-A.pdf"
         ],
-        "changeDate": "2025-06-23T19:48:20",
+        "changeDate": "2025-06-23T20:06:27",
+        "deliveryDate": "2025-06-23",
         "documentDate": "2025-06-23",
         "number": "1333-A",
-        "processPrint": [],
+        "processPrint": [
+            "1232"
+        ],
         "term": 10,
         "title": "Dodatkowe sprawozdanie Komisji do Spraw Deregulacji oraz Komisji Finansów Publicznych o rządowym projekcie ustawy o zmianie ustawy o podatku od towarów i usług."
     },
@@ -41552,7 +41555,8 @@
         "attachments": [
             "1349.pdf"
         ],
-        "changeDate": "2025-06-23T18:43:43",
+        "changeDate": "2025-06-23T20:07:10",
+        "deliveryDate": "2025-06-23",
         "documentDate": "2025-06-12",
         "number": "1349",
         "processPrint": [
@@ -41639,7 +41643,8 @@
             "1374-ustawa.docx",
             "1374-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-23T19:24:00",
+        "changeDate": "2025-06-23T20:06:45",
+        "deliveryDate": "2025-06-23",
         "documentDate": "2025-06-13",
         "number": "1374",
         "processPrint": [
@@ -41665,7 +41670,8 @@
             "1376-ustawa.docx",
             "1376-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-23T19:48:42",
+        "changeDate": "2025-06-23T20:06:37",
+        "deliveryDate": "2025-06-23",
         "documentDate": "2025-06-16",
         "number": "1376",
         "processPrint": [
@@ -41676,13 +41682,40 @@
     },
     {
         "attachments": [
-            ""
+            "1377.pdf",
+            "1377-ustawa.docx",
+            "1377-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-23T19:48:20",
+        "changeDate": "2025-06-23T20:06:17",
+        "deliveryDate": "2025-06-23",
         "documentDate": "2025-06-13",
         "number": "1377",
-        "processPrint": [],
+        "processPrint": [
+            "1377"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo bankowe oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-06-23T20:12:21",
+        "documentDate": "2025-06-18",
+        "number": "1378",
+        "processPrint": [],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo farmaceutyczne."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-06-23T20:12:21",
+        "documentDate": "2025-06-17",
+        "number": "1379",
+        "processPrint": [],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo budowlane oraz niektórych innych ustaw."
     }
 ]
