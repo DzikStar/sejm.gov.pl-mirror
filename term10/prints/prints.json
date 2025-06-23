@@ -24426,7 +24426,8 @@
                 "attachments": [
                     "774-s.pdf"
                 ],
-                "changeDate": "2025-06-23T10:56:16",
+                "changeDate": "2025-06-23T11:33:55",
+                "deliveryDate": "2025-06-23",
                 "documentDate": "2025-06-20",
                 "number": "774-s",
                 "numberAssociated": [
@@ -41544,9 +41545,10 @@
     },
     {
         "attachments": [
-            ""
+            "1370.pdf"
         ],
-        "changeDate": "2025-06-23T11:03:18",
+        "changeDate": "2025-06-23T11:35:11",
+        "deliveryDate": "2025-06-23",
         "documentDate": "2025-06-20",
         "number": "1370",
         "processPrint": [
