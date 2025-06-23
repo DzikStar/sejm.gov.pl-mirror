@@ -40446,12 +40446,17 @@
     },
     {
         "attachments": [
-            ""
+            "1307-A.pdf",
+            "1307-A-autopoprawka.docx",
+            "1307-A-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-23T13:38:08",
+        "changeDate": "2025-06-23T13:56:51",
+        "deliveryDate": "2025-06-23",
         "documentDate": "2025-06-17",
         "number": "1307-A",
-        "processPrint": [],
+        "processPrint": [
+            "1307"
+        ],
         "term": 10,
         "title": "Autopoprawka do rządowego projektu ustawy o uchyleniu ustawy o Centralnej Informacji Emerytalnej."
     },
