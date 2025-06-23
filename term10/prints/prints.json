@@ -41285,6 +41285,17 @@
     },
     {
         "attachments": [
+            ""
+        ],
+        "changeDate": "2025-06-23T19:30:30",
+        "documentDate": "2025-06-23",
+        "number": "1333-A",
+        "processPrint": [],
+        "term": 10,
+        "title": "Dodatkowe sprawozdanie Komisji do Spraw Deregulacji oraz Komisji Finansów Publicznych o rządowym projekcie ustawy o zmianie ustawy o podatku od towarów i usług."
+    },
+    {
+        "attachments": [
             "1334.pdf",
             "V14_2376-3.NK.docx"
         ],
@@ -41624,12 +41635,16 @@
     },
     {
         "attachments": [
-            ""
+            "1374.pdf",
+            "1374-ustawa.docx",
+            "1374-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-23T19:12:16",
+        "changeDate": "2025-06-23T19:24:00",
         "documentDate": "2025-06-13",
         "number": "1374",
-        "processPrint": [],
+        "processPrint": [
+            "1374"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw."
     },
@@ -41643,5 +41658,16 @@
         "processPrint": [],
         "term": 10,
         "title": "Rządowy projekt ustawy zmieniającej ustawę o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-06-23T19:27:47",
+        "documentDate": "2025-06-16",
+        "number": "1376",
+        "processPrint": [],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych oraz wsparcia przedsiębiorczości."
     }
 ]
