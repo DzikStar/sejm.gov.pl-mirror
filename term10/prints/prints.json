@@ -41287,7 +41287,7 @@
         "attachments": [
             ""
         ],
-        "changeDate": "2025-06-23T19:30:30",
+        "changeDate": "2025-06-23T19:48:20",
         "documentDate": "2025-06-23",
         "number": "1333-A",
         "processPrint": [],
@@ -41661,13 +41661,28 @@
     },
     {
         "attachments": [
-            ""
+            "1376.pdf",
+            "1376-ustawa.docx",
+            "1376-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-23T19:27:47",
+        "changeDate": "2025-06-23T19:48:42",
         "documentDate": "2025-06-16",
         "number": "1376",
-        "processPrint": [],
+        "processPrint": [
+            "1376"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych oraz wsparcia przedsiębiorczości."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-06-23T19:48:20",
+        "documentDate": "2025-06-13",
+        "number": "1377",
+        "processPrint": [],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo bankowe oraz niektórych innych ustaw."
     }
 ]
