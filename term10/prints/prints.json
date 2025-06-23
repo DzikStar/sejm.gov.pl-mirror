@@ -41655,12 +41655,16 @@
     },
     {
         "attachments": [
-            ""
+            "1375.pdf",
+            "1375-ustawa.docx",
+            "1375-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-23T19:12:15",
+        "changeDate": "2025-06-23T20:23:01",
         "documentDate": "2025-06-17",
         "number": "1375",
-        "processPrint": [],
+        "processPrint": [
+            "1375"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy zmieniającej ustawę o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw."
     },
@@ -41698,24 +41702,62 @@
     },
     {
         "attachments": [
-            ""
+            "1378.pdf",
+            "1378-ustawa.docx",
+            "1378-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-23T20:12:21",
+        "changeDate": "2025-06-23T20:24:52",
         "documentDate": "2025-06-18",
         "number": "1378",
-        "processPrint": [],
+        "processPrint": [
+            "1378"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo farmaceutyczne."
     },
     {
         "attachments": [
-            ""
+            "1379.pdf",
+            "1379-ustawa.docx",
+            "1379-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-23T20:12:21",
+        "changeDate": "2025-06-23T20:27:05",
         "documentDate": "2025-06-17",
         "number": "1379",
-        "processPrint": [],
+        "processPrint": [
+            "1379"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo budowlane oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
+            "1380.pdf",
+            "1380-ustawa.docx",
+            "1380-uzasadnienie.docx"
+        ],
+        "changeDate": "2025-06-23T20:45:57",
+        "documentDate": "2025-06-17",
+        "number": "1380",
+        "processPrint": [
+            "1380"
+        ],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych."
+    },
+    {
+        "attachments": [
+            "1381.pdf",
+            "1381-ustawa.docx",
+            "1381-uzasadnienie.docx"
+        ],
+        "changeDate": "2025-06-23T20:47:56",
+        "documentDate": "2025-06-17",
+        "number": "1381",
+        "processPrint": [
+            "1381"
+        ],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich, ustawy o Krajowym Rejestrze Karnym oraz ustawy  - Prawo oświatowe."
     }
 ]
