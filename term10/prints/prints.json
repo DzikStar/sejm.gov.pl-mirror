@@ -28584,6 +28584,22 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 907 - ocena skutków regulacji"
+            },
+            {
+                "attachments": [
+                    "907-s.pdf"
+                ],
+                "changeDate": "2025-06-23T15:35:46",
+                "documentDate": "2025-06-20",
+                "number": "907-s",
+                "numberAssociated": [
+                    "907"
+                ],
+                "processPrint": [
+                    "907"
+                ],
+                "term": 10,
+                "title": "Stanowisko Rządu do druku nr 907."
             }
         ],
         "attachments": [
@@ -40634,6 +40650,24 @@
         "title": "Rządowy projekt ustawy zmieniającej ustawę o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1313-001.pdf"
+                ],
+                "changeDate": "2025-06-23T15:37:18",
+                "documentDate": "2025-06-18",
+                "number": "1313-001",
+                "numberAssociated": [
+                    "1313"
+                ],
+                "processPrint": [
+                    "1313"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1313 - opinia SN (nie zgłoszono uwag)"
+            }
+        ],
         "attachments": [
             "1313.pdf",
             "1313-ustawa.docx",
