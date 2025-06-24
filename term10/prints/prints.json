@@ -37814,7 +37814,7 @@
                 "attachments": [
                     "1205-002.pdf"
                 ],
-                "changeDate": "2025-06-24T09:07:49",
+                "changeDate": "2025-06-24T10:35:30",
                 "deliveryDate": "2025-06-24",
                 "documentDate": "2025-06-18",
                 "number": "1205-002",
@@ -41645,7 +41645,7 @@
             "1367.pdf",
             "V6_1841-12.NK.docx"
         ],
-        "changeDate": "2025-06-24T08:44:17",
+        "changeDate": "2025-06-24T10:33:59",
         "deliveryDate": "2025-06-24",
         "documentDate": "2025-06-23",
         "number": "1367",
@@ -41689,7 +41689,7 @@
             "1372.pdf",
             "V3_1239-7.NK.docx"
         ],
-        "changeDate": "2025-06-24T08:05:51",
+        "changeDate": "2025-06-24T10:33:51",
         "deliveryDate": "2025-06-24",
         "documentDate": "2025-06-23",
         "number": "1372",
@@ -41833,7 +41833,7 @@
             "1382-ustawa.docx",
             "1382-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-24T08:44:17",
+        "changeDate": "2025-06-24T10:34:08",
         "deliveryDate": "2025-06-24",
         "documentDate": "2025-06-16",
         "number": "1382",
@@ -41849,7 +41849,7 @@
             "1383-ustawa.docx",
             "1383-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-24T09:07:49",
+        "changeDate": "2025-06-24T10:34:51",
         "deliveryDate": "2025-06-24",
         "documentDate": "2025-06-20",
         "number": "1383",
@@ -41865,7 +41865,7 @@
             "1384-ustawa.docx",
             "1384-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-24T09:07:49",
+        "changeDate": "2025-06-24T10:35:12",
         "deliveryDate": "2025-06-24",
         "documentDate": "2025-06-13",
         "number": "1384",
@@ -41881,7 +41881,7 @@
             "1387-ustawa.docx",
             "1387-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-24T09:53:31",
+        "changeDate": "2025-06-24T10:34:21",
         "deliveryDate": "2025-06-24",
         "documentDate": "2025-06-03",
         "number": "1387",
@@ -41896,7 +41896,7 @@
             "1388.pdf",
             "1388-ustawa i uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-24T09:53:31",
+        "changeDate": "2025-06-24T10:34:29",
         "deliveryDate": "2025-06-24",
         "documentDate": "2025-05-07",
         "number": "1388",
@@ -41912,7 +41912,7 @@
             "1389-ustawa.docx",
             "1389-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-24T09:53:31",
+        "changeDate": "2025-06-24T10:34:44",
         "deliveryDate": "2025-06-24",
         "documentDate": "2025-05-30",
         "number": "1389",
@@ -41927,7 +41927,7 @@
             "1390.pdf",
             "1390-ustawa i uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-24T09:53:31",
+        "changeDate": "2025-06-24T10:34:37",
         "deliveryDate": "2025-06-24",
         "documentDate": "2025-04-11",
         "number": "1390",
@@ -41936,5 +41936,20 @@
         ],
         "term": 10,
         "title": "Poselski projekt ustawy o zmianie ustawy o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw."
+    },
+    {
+        "attachments": [
+            "1391.pdf",
+            "1391-uchwała.docx"
+        ],
+        "changeDate": "2025-06-24T10:40:32",
+        "deliveryDate": "2025-06-24",
+        "documentDate": "2025-06-23",
+        "number": "1391",
+        "processPrint": [
+            "1391"
+        ],
+        "term": 10,
+        "title": "Poselski projekt uchwały w sprawie wezwania Rządu Rzeczypospolitej Polskiej do działań zmierzających do zablokowania umowy handlowej Unii Europejskiej z krajami Mercosur."
     }
 ]
