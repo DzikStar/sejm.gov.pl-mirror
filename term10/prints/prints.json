@@ -41877,13 +41877,56 @@
     },
     {
         "attachments": [
-            ""
+            "1387.pdf",
+            "1387-ustawa.docx",
+            "1387-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-24T09:06:21",
+        "changeDate": "2025-06-24T09:19:37",
         "documentDate": "2025-06-03",
         "number": "1387",
-        "processPrint": [],
+        "processPrint": [
+            "1387"
+        ],
         "term": 10,
         "title": "Poselski projekt ustawy o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
+            "1388.pdf",
+            "1388-ustawa i uzasadnienie.docx"
+        ],
+        "changeDate": "2025-06-24T09:37:33",
+        "documentDate": "2025-05-07",
+        "number": "1388",
+        "processPrint": [
+            "1388"
+        ],
+        "term": 10,
+        "title": "Poselski projekt ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-06-24T09:40:05",
+        "documentDate": "2025-05-30",
+        "number": "1389",
+        "processPrint": [],
+        "term": 10,
+        "title": "Poselski projekt ustawy o zmianie ustawy - Kodeks wyborczy."
+    },
+    {
+        "attachments": [
+            "1390.pdf",
+            "1390-ustawa i uzasadnienie.docx"
+        ],
+        "changeDate": "2025-06-24T09:40:00",
+        "documentDate": "2025-04-11",
+        "number": "1390",
+        "processPrint": [
+            "1390"
+        ],
+        "term": 10,
+        "title": "Poselski projekt ustawy o zmianie ustawy o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw."
     }
 ]
