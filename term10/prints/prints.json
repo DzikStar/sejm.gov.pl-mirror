@@ -41881,7 +41881,8 @@
             "1387-ustawa.docx",
             "1387-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-24T09:19:37",
+        "changeDate": "2025-06-24T09:53:31",
+        "deliveryDate": "2025-06-24",
         "documentDate": "2025-06-03",
         "number": "1387",
         "processPrint": [
@@ -41895,7 +41896,8 @@
             "1388.pdf",
             "1388-ustawa i uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-24T09:37:33",
+        "changeDate": "2025-06-24T09:53:31",
+        "deliveryDate": "2025-06-24",
         "documentDate": "2025-05-07",
         "number": "1388",
         "processPrint": [
@@ -41906,12 +41908,17 @@
     },
     {
         "attachments": [
-            ""
+            "1389.pdf",
+            "1389-ustawa.docx",
+            "1389-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-24T09:40:05",
+        "changeDate": "2025-06-24T09:53:31",
+        "deliveryDate": "2025-06-24",
         "documentDate": "2025-05-30",
         "number": "1389",
-        "processPrint": [],
+        "processPrint": [
+            "1389"
+        ],
         "term": 10,
         "title": "Poselski projekt ustawy o zmianie ustawy - Kodeks wyborczy."
     },
@@ -41920,7 +41927,8 @@
             "1390.pdf",
             "1390-ustawa i uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-24T09:40:00",
+        "changeDate": "2025-06-24T09:53:31",
+        "deliveryDate": "2025-06-24",
         "documentDate": "2025-04-11",
         "number": "1390",
         "processPrint": [
