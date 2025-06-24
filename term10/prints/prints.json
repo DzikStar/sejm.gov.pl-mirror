@@ -41349,6 +41349,25 @@
         "title": "Sprawozdanie Komisji Obrony Narodowej o rządowym projekcie ustawy o zmianie ustawy o obronie Ojczyzny oraz niektórych innych ustaw."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1336-001.pdf"
+                ],
+                "changeDate": "2025-06-24T17:42:41",
+                "deliveryDate": "2025-06-24",
+                "documentDate": "2025-06-24",
+                "number": "1336-001",
+                "numberAssociated": [
+                    "1336"
+                ],
+                "processPrint": [
+                    "1336"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1336 - zmiana sprawozdawcy."
+            }
+        ],
         "attachments": [
             "1336.pdf",
             "V2_9-28.NK.docx"
@@ -41678,6 +41697,19 @@
         ],
         "term": 10,
         "title": "Sprawozdanie Komisji Edukacji i Nauki, Komisji do Spraw Dzieci i Młodzieży oraz Komisji Polityki Społecznej i Rodziny w sprawie Informacji o działalności Rzecznika Praw Dziecka za 2024 rok wraz z uwagami o stanie przestrzegania praw dziecka w Polsce."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-06-24T17:33:58",
+        "documentDate": "2025-06-23",
+        "number": "1354",
+        "processPrint": [
+            "1263"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Sprawiedliwości i Praw Człowieka o rządowym projekcie ustawy o zmianie ustawy - Prawo restrukturyzacyjne oraz niektórych innych ustaw."
     },
     {
         "attachments": [
