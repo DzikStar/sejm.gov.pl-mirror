@@ -41654,6 +41654,21 @@
     },
     {
         "attachments": [
+            "1372.pdf",
+            "V3_1239-7.NK.docx"
+        ],
+        "changeDate": "2025-06-24T08:05:51",
+        "deliveryDate": "2025-06-24",
+        "documentDate": "2025-06-23",
+        "number": "1372",
+        "processPrint": [
+            "748"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Zdrowia o poselskim projekcie ustawy o zmianie ustawy - o prawach pacjenta i Rzeczniku Praw Pacjenta oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
             "1374.pdf",
             "1374-ustawa.docx",
             "1374-uzasadnienie.docx"
@@ -41779,5 +41794,20 @@
         ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy o przeciwdziałaniu zagrożeniom przestępczością na tle seksualnym i ochronie małoletnich, ustawy o Krajowym Rejestrze Karnym oraz ustawy  - Prawo oświatowe."
+    },
+    {
+        "attachments": [
+            "1382.pdf",
+            "1382-ustawa.docx",
+            "1382-uzasadnienie.docx"
+        ],
+        "changeDate": "2025-06-24T08:20:57",
+        "documentDate": "2025-06-16",
+        "number": "1382",
+        "processPrint": [
+            "1382"
+        ],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy o społecznych formach rozwoju mieszkalnictwa oraz niektórych innych ustaw."
     }
 ]
