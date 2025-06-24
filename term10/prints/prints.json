@@ -40428,6 +40428,25 @@
         "title": "Rządowy projekt ustawy o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1306-001.pdf"
+                ],
+                "changeDate": "2025-06-24T13:20:37",
+                "deliveryDate": "2025-06-24",
+                "documentDate": "2025-06-23",
+                "number": "1306-001",
+                "numberAssociated": [
+                    "1306"
+                ],
+                "processPrint": [
+                    "1306"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1306 - opinia SN (nie zgłoszono uwag)"
+            }
+        ],
         "attachments": [
             "1306.pdf",
             "1306-ustawa.docx",
@@ -41973,12 +41992,16 @@
     },
     {
         "attachments": [
-            ""
+            "1392.pdf",
+            "1392-uchwała.docx"
         ],
-        "changeDate": "2025-06-24T13:04:30",
+        "changeDate": "2025-06-24T13:20:47",
+        "deliveryDate": "2025-06-24",
         "documentDate": "2025-06-24",
         "number": "1392",
-        "processPrint": [],
+        "processPrint": [
+            "1392"
+        ],
         "term": 10,
         "title": "Poselski projekt uchwały w sprawie upamiętnienia Ofiar Obławy Augustowskiej w 80. rocznicę zbrodni."
     }
