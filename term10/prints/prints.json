@@ -41669,7 +41669,8 @@
             "1353.pdf",
             "1353.docx"
         ],
-        "changeDate": "2025-06-24T16:09:42",
+        "changeDate": "2025-06-24T16:58:02",
+        "deliveryDate": "2025-06-24",
         "documentDate": "2025-06-24",
         "number": "1353",
         "processPrint": [
@@ -42024,7 +42025,8 @@
             "1393.docx",
             "1393.pdf"
         ],
-        "changeDate": "2025-06-24T16:36:48",
+        "changeDate": "2025-06-24T16:58:19",
+        "deliveryDate": "2025-06-24",
         "documentDate": "2025-06-24",
         "number": "1393",
         "processPrint": [
@@ -42038,7 +42040,8 @@
             "1394.pdf",
             "1394-uchwała.doc"
         ],
-        "changeDate": "2025-06-24T16:47:26",
+        "changeDate": "2025-06-24T16:58:33",
+        "deliveryDate": "2025-06-24",
         "documentDate": "2025-06-24",
         "number": "1394",
         "processPrint": [
@@ -42049,12 +42052,16 @@
     },
     {
         "attachments": [
-            ""
+            "1395-uchwała.doc",
+            "1395.pdf"
         ],
-        "changeDate": "2025-06-24T16:29:42",
+        "changeDate": "2025-06-24T16:58:43",
+        "deliveryDate": "2025-06-24",
         "documentDate": "2025-06-24",
         "number": "1395",
-        "processPrint": [],
+        "processPrint": [
+            "1395"
+        ],
         "term": 10,
         "title": "Komisyjny projekt uchwały w sprawie Informacji o działalności Rady Mediów Narodowych w 2024 roku."
     }
