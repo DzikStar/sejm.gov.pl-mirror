@@ -37809,6 +37809,23 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1205 - ocena skutków regulacji"
+            },
+            {
+                "attachments": [
+                    "1205-002.pdf"
+                ],
+                "changeDate": "2025-06-24T09:07:49",
+                "deliveryDate": "2025-06-24",
+                "documentDate": "2025-06-18",
+                "number": "1205-002",
+                "numberAssociated": [
+                    "1205"
+                ],
+                "processPrint": [
+                    "1205"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1205 - opinia KRS"
             }
         ],
         "attachments": [
@@ -41832,7 +41849,8 @@
             "1383-ustawa.docx",
             "1383-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-24T08:47:43",
+        "changeDate": "2025-06-24T09:07:49",
+        "deliveryDate": "2025-06-24",
         "documentDate": "2025-06-20",
         "number": "1383",
         "processPrint": [
@@ -41843,13 +41861,29 @@
     },
     {
         "attachments": [
-            ""
+            "1384.pdf",
+            "1384-ustawa.docx",
+            "1384-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-24T08:48:10",
+        "changeDate": "2025-06-24T09:07:49",
+        "deliveryDate": "2025-06-24",
         "documentDate": "2025-06-13",
         "number": "1384",
-        "processPrint": [],
+        "processPrint": [
+            "1384"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o ratyfikacji Traktatu o wzmocnionej współpracy i przyjaźni między Rzecząpospolitą Polską a Republiką Francuską, podpisanego w Nancy dnia 9 maja 2025 r."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-06-24T09:06:21",
+        "documentDate": "2025-06-03",
+        "number": "1387",
+        "processPrint": [],
+        "term": 10,
+        "title": "Poselski projekt ustawy o zmianie ustawy o ochronie przyrody oraz niektórych innych ustaw."
     }
 ]
