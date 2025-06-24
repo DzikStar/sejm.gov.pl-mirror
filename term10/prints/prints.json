@@ -41625,6 +41625,21 @@
     },
     {
         "attachments": [
+            "1367.pdf",
+            "V6_1841-12.NK.docx"
+        ],
+        "changeDate": "2025-06-24T08:44:17",
+        "deliveryDate": "2025-06-24",
+        "documentDate": "2025-06-23",
+        "number": "1367",
+        "processPrint": [
+            "1130"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji do Spraw Energii, Klimatu i Aktywów Państwowych oraz Komisji Infrastruktury o rządowym projekcie ustawy o zmianie ustawy o inwestycjach w zakresie elektrowni wiatrowych oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
             "1370.pdf"
         ],
         "changeDate": "2025-06-23T11:35:11",
@@ -41801,7 +41816,8 @@
             "1382-ustawa.docx",
             "1382-uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-24T08:20:57",
+        "changeDate": "2025-06-24T08:44:17",
+        "deliveryDate": "2025-06-24",
         "documentDate": "2025-06-16",
         "number": "1382",
         "processPrint": [
@@ -41809,5 +41825,31 @@
         ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy o społecznych formach rozwoju mieszkalnictwa oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
+            "1383.pdf",
+            "1383-ustawa.docx",
+            "1383-uzasadnienie.docx"
+        ],
+        "changeDate": "2025-06-24T08:47:43",
+        "documentDate": "2025-06-20",
+        "number": "1383",
+        "processPrint": [
+            "1383"
+        ],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy o kontroli niektórych inwestycji oraz ustawy o dopłatach do oprocentowania kredytów bankowych udzielanych przedsiębiorcom dotkniętym skutkami COVID-19 oraz o uproszczonym postępowaniu o zatwierdzenie układu w związku z wystąpieniem COVID-19."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-06-24T08:48:10",
+        "documentDate": "2025-06-13",
+        "number": "1384",
+        "processPrint": [],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o ratyfikacji Traktatu o wzmocnionej współpracy i przyjaźni między Rzecząpospolitą Polską a Republiką Francuską, podpisanego w Nancy dnia 9 maja 2025 r."
     }
 ]
