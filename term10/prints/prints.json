@@ -40990,6 +40990,22 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1318 - opinia OPOS"
+            },
+            {
+                "attachments": [
+                    "1318-006.pdf"
+                ],
+                "changeDate": "2025-06-25T13:47:43",
+                "documentDate": "2025-06-25",
+                "number": "1318-006",
+                "numberAssociated": [
+                    "1318"
+                ],
+                "processPrint": [
+                    "1318"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1318 - ocena skutków regulacji"
             }
         ],
         "attachments": [
@@ -41565,6 +41581,24 @@
         "title": "Poselski projekt ustawy o zawodzie psychoterapeuty oraz samorządzie zawodowym."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1346-001.pdf"
+                ],
+                "changeDate": "2025-06-25T13:46:12",
+                "documentDate": "2025-06-24",
+                "number": "1346-001",
+                "numberAssociated": [
+                    "1346"
+                ],
+                "processPrint": [
+                    "1346"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1346 - opinia RDPP"
+            }
+        ],
         "attachments": [
             "1346.pdf",
             "1346-ustawa.docx",
