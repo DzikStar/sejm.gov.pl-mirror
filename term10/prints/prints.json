@@ -42065,6 +42065,20 @@
     },
     {
         "attachments": [
+            "1372-A.pdf"
+        ],
+        "changeDate": "2025-06-25T20:44:21",
+        "deliveryDate": "2025-06-25",
+        "documentDate": "2025-06-25",
+        "number": "1372-A",
+        "processPrint": [
+            "748"
+        ],
+        "term": 10,
+        "title": "Dodatkowe sprawozdanie Komisji Zdrowia o poselskim projekcie ustawy o zmianie ustawy - o prawach pacjenta i Rzeczniku Praw Pacjenta oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
             "1373.pdf",
             "V6_2596-0.PK.docx"
         ],
@@ -42462,5 +42476,27 @@
         ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy - Kodeks postępowania karnego."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-06-25T20:37:15",
+        "documentDate": "2025-06-10",
+        "number": "1404",
+        "processPrint": [],
+        "term": 10,
+        "title": "Poselski projekt ustawy o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-06-25T20:27:27",
+        "documentDate": "2025-06-18",
+        "number": "1405",
+        "processPrint": [],
+        "term": 10,
+        "title": "Sprawozdanie z działalności Najwyższej Izby Kontroli w 2024 roku."
     }
 ]
