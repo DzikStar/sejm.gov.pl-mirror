@@ -42493,12 +42493,14 @@
     },
     {
         "attachments": [
-            ""
+            "1405.pdf"
         ],
-        "changeDate": "2025-06-25T20:27:27",
+        "changeDate": "2025-06-25T21:20:40",
         "documentDate": "2025-06-18",
         "number": "1405",
-        "processPrint": [],
+        "processPrint": [
+            "1405"
+        ],
         "term": 10,
         "title": "Sprawozdanie z działalności Najwyższej Izby Kontroli w 2024 roku."
     }
