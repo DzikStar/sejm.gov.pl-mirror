@@ -41825,45 +41825,59 @@
     },
     {
         "attachments": [
-            ""
+            "1357.pdf",
+            "528-9.NK.docx"
         ],
-        "changeDate": "2025-06-25T17:40:09",
+        "changeDate": "2025-06-25T17:53:10",
+        "deliveryDate": "2025-06-25",
         "documentDate": "2025-06-23",
         "number": "1357",
-        "processPrint": [],
+        "processPrint": [
+            "1305"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji do Spraw Deregulacji o rządowym projekcie ustawy o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi."
     },
     {
         "attachments": [
-            ""
+            "1358.pdf",
+            "V1_96-25.NK.docx"
         ],
-        "changeDate": "2025-06-25T17:40:09",
+        "changeDate": "2025-06-25T17:52:58",
+        "deliveryDate": "2025-06-25",
         "documentDate": "2025-06-23",
         "number": "1358",
-        "processPrint": [],
+        "processPrint": [
+            "1306"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji do Spraw Deregulacji o rządowym projekcie ustawy o zmianie ustawy - Prawo bankowe oraz niektórych innych ustaw."
     },
     {
         "attachments": [
-            ""
+            "1359.pdf"
         ],
-        "changeDate": "2025-06-25T17:40:10",
+        "changeDate": "2025-06-25T17:52:13",
+        "deliveryDate": "2025-06-25",
         "documentDate": "2025-06-23",
         "number": "1359",
-        "processPrint": [],
+        "processPrint": [
+            "1343"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji do Spraw Deregulacji o rządowym projekcie ustawy o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawy o ewidencji ludności."
     },
     {
         "attachments": [
-            ""
+            "1363.pdf"
         ],
-        "changeDate": "2025-06-25T17:40:09",
+        "changeDate": "2025-06-25T17:52:29",
+        "deliveryDate": "2025-06-25",
         "documentDate": "2025-06-25",
         "number": "1363",
-        "processPrint": [],
+        "processPrint": [
+            "1309"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji do Spraw Deregulacji o rządowym projekcie ustawy o zmianie ustawy - Prawo o szkolnictwie wyższym i nauce."
     },
@@ -41942,12 +41956,16 @@
     },
     {
         "attachments": [
-            ""
+            "1373.pdf",
+            "V6_2596-0.PK.docx"
         ],
-        "changeDate": "2025-06-25T17:40:09",
+        "changeDate": "2025-06-25T17:52:42",
+        "deliveryDate": "2025-06-25",
         "documentDate": "2025-06-23",
         "number": "1373",
-        "processPrint": [],
+        "processPrint": [
+            "1307"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji do Spraw Deregulacji oraz Komisji Finansów Publicznych o rządowym projekcie ustawy o uchyleniu ustawy o Centralnej Informacji Emerytalnej."
     },
