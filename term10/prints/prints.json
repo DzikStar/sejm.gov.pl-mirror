@@ -40236,7 +40236,7 @@
         "attachments": [
             "1296-A.pdf"
         ],
-        "changeDate": "2025-06-25T20:09:58",
+        "changeDate": "2025-06-25T21:02:46",
         "deliveryDate": "2025-06-25",
         "documentDate": "2025-06-25",
         "number": "1296-A",
@@ -40265,7 +40265,7 @@
         "attachments": [
             "1297-A.pdf"
         ],
-        "changeDate": "2025-06-25T20:09:58",
+        "changeDate": "2025-06-25T21:03:03",
         "deliveryDate": "2025-06-25",
         "documentDate": "2025-06-25",
         "number": "1297-A",
@@ -41874,7 +41874,7 @@
         "attachments": [
             "1354-A.pdf"
         ],
-        "changeDate": "2025-06-25T20:09:58",
+        "changeDate": "2025-06-25T21:03:18",
         "deliveryDate": "2025-06-25",
         "documentDate": "2025-06-25",
         "number": "1354-A",
@@ -42067,7 +42067,7 @@
         "attachments": [
             "1372-A.pdf"
         ],
-        "changeDate": "2025-06-25T20:44:21",
+        "changeDate": "2025-06-25T21:03:39",
         "deliveryDate": "2025-06-25",
         "documentDate": "2025-06-25",
         "number": "1372-A",
@@ -42479,12 +42479,15 @@
     },
     {
         "attachments": [
-            ""
+            "1404.pdf",
+            "1404-ustawa i uzasadnienie.docx"
         ],
-        "changeDate": "2025-06-25T20:37:15",
+        "changeDate": "2025-06-25T21:04:11",
         "documentDate": "2025-06-10",
         "number": "1404",
-        "processPrint": [],
+        "processPrint": [
+            "1404"
+        ],
         "term": 10,
         "title": "Poselski projekt ustawy o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw."
     },
