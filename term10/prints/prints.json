@@ -42284,6 +42284,21 @@
     },
     {
         "attachments": [
+            "1386.pdf",
+            "V6_2059-2.NK.docx"
+        ],
+        "changeDate": "2025-06-26T13:35:08",
+        "deliveryDate": "2025-06-26",
+        "documentDate": "2025-06-24",
+        "number": "1386",
+        "processPrint": [
+            "1314"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Administracji i Spraw Wewnętrznych o rządowym projekcie ustawy o zmianie ustawy o przetwarzaniu danych dotyczących przelotu pasażera."
+    },
+    {
+        "attachments": [
             "1387.pdf",
             "1387-ustawa.docx",
             "1387-uzasadnienie.docx"
@@ -42511,7 +42526,8 @@
             "1406.pdf",
             "1406-uchwała.docx"
         ],
-        "changeDate": "2025-06-26T13:28:58",
+        "changeDate": "2025-06-26T13:35:18",
+        "deliveryDate": "2025-06-26",
         "documentDate": "2025-06-26",
         "number": "1406",
         "processPrint": [
