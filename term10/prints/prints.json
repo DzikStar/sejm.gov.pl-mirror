@@ -41944,12 +41944,16 @@
     },
     {
         "attachments": [
-            ""
+            "1360.pdf",
+            "V5_2176-3.NK.docx"
         ],
-        "changeDate": "2025-06-30T10:18:12",
+        "changeDate": "2025-06-30T10:37:30",
+        "deliveryDate": "2025-06-30",
         "documentDate": "2025-06-25",
         "number": "1360",
-        "processPrint": [],
+        "processPrint": [
+            "1302"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji do Spraw Deregulacji o rządowym projekcie ustawy o zmianie ustawy - Prawo zamówień publicznych oraz ustawy o umowie koncesji na roboty budowlane lub usługi."
     },
@@ -42492,7 +42496,8 @@
             "1397.pdf",
             "V10_1475-4.NK.docx"
         ],
-        "changeDate": "2025-06-30T09:43:11",
+        "changeDate": "2025-06-30T10:37:45",
+        "deliveryDate": "2025-06-30",
         "documentDate": "2025-06-25",
         "number": "1397",
         "processPrint": [
