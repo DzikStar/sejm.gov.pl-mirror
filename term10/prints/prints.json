@@ -42478,12 +42478,15 @@
     },
     {
         "attachments": [
-            ""
+            "1397.pdf",
+            "V10_1475-4.NK.docx"
         ],
-        "changeDate": "2025-06-30T09:39:18",
+        "changeDate": "2025-06-30T09:43:11",
         "documentDate": "2025-06-25",
         "number": "1397",
-        "processPrint": [],
+        "processPrint": [
+            "1280"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji Finansów Publicznych oraz Komisji Obrony Narodowej o rządowym projekcie ustawy o zmianie ustawy o weteranach działań poza granicami państwa, ustawy o podatku dochodowym od osób fizycznych i ustawy o finansach publicznych."
     },
