@@ -41565,12 +41565,15 @@
     },
     {
         "attachments": [
-            ""
+            "1341.pdf"
         ],
-        "changeDate": "2025-07-01T12:35:27",
+        "changeDate": "2025-07-01T12:49:27",
+        "deliveryDate": "2025-07-01",
         "documentDate": "2025-06-25",
         "number": "1341",
-        "processPrint": [],
+        "processPrint": [
+            "1145"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji do Spraw Służb Specjalnych o Informacji o wynikach działalności Centralnego Biura Antykorupcyjnego w 2024 r."
     },
@@ -42580,7 +42583,8 @@
         "attachments": [
             "1403.pdf"
         ],
-        "changeDate": "2025-07-01T12:36:30",
+        "changeDate": "2025-07-01T12:49:43",
+        "deliveryDate": "2025-07-01",
         "documentDate": "2025-06-24",
         "number": "1403",
         "processPrint": [
