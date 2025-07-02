@@ -41677,6 +41677,40 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1346 - opinia RDPP"
+            },
+            {
+                "attachments": [
+                    "1346-002.pdf"
+                ],
+                "changeDate": "2025-07-02T14:11:16",
+                "deliveryDate": "2025-07-02",
+                "documentDate": "2025-07-02",
+                "number": "1346-002",
+                "numberAssociated": [
+                    "1346"
+                ],
+                "processPrint": [
+                    "1346"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1346 - opinia ŚZGIP."
+            },
+            {
+                "attachments": [
+                    "1346-003.pdf"
+                ],
+                "changeDate": "2025-07-02T14:11:26",
+                "deliveryDate": "2025-07-02",
+                "documentDate": "2025-07-02",
+                "number": "1346-003",
+                "numberAssociated": [
+                    "1346"
+                ],
+                "processPrint": [
+                    "1346"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1346 - opinia BEOS."
             }
         ],
         "attachments": [
@@ -42460,6 +42494,42 @@
         "title": "Poselski projekt ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1389-001.pdf"
+                ],
+                "changeDate": "2025-07-02T14:11:37",
+                "deliveryDate": "2025-07-02",
+                "documentDate": "2025-07-02",
+                "number": "1389-001",
+                "numberAssociated": [
+                    "1389"
+                ],
+                "processPrint": [
+                    "1389"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1389 - opinia ZPP."
+            },
+            {
+                "attachments": [
+                    "1389-002.pdf"
+                ],
+                "changeDate": "2025-07-02T14:11:47",
+                "deliveryDate": "2025-07-02",
+                "documentDate": "2025-07-02",
+                "number": "1389-002",
+                "numberAssociated": [
+                    "1389"
+                ],
+                "processPrint": [
+                    "1389"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1389 - opinia ŚZGIP."
+            }
+        ],
         "attachments": [
             "1389.pdf",
             "1389-ustawa.docx",
@@ -42702,6 +42772,25 @@
         "title": "Sprawozdanie Komisji Zdrowia o poselskim projekcie uchwały w sprawie sprzeciwu wobec prywatyzacji publicznej służby zdrowia."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1404-001.pdf"
+                ],
+                "changeDate": "2025-07-02T14:11:02",
+                "deliveryDate": "2025-07-02",
+                "documentDate": "2025-07-02",
+                "number": "1404-001",
+                "numberAssociated": [
+                    "1404"
+                ],
+                "processPrint": [
+                    "1404"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1404 - opinia KIRP."
+            }
+        ],
         "attachments": [
             "1404.pdf",
             "1404-ustawa i uzasadnienie.docx"
