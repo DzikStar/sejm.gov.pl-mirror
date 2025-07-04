@@ -39867,6 +39867,25 @@
         "title": "Przedstawiony przez Prezydium Sejmu wniosek w sprawie zmiany w składzie osobowym komisji sejmowej."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1280-001.pdf"
+                ],
+                "changeDate": "2025-07-04T13:27:34",
+                "deliveryDate": "2025-07-04",
+                "documentDate": "2025-07-03",
+                "number": "1280-001",
+                "numberAssociated": [
+                    "1280"
+                ],
+                "processPrint": [
+                    "1280"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1280 - opinia SN (nie zgłoszono uwag)"
+            }
+        ],
         "attachments": [
             "1280.pdf",
             "1280-ustawa.docx",
@@ -40538,6 +40557,23 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1306 - opinia SN (nie zgłoszono uwag)"
+            },
+            {
+                "attachments": [
+                    "1306-002.pdf"
+                ],
+                "changeDate": "2025-07-04T13:27:21",
+                "deliveryDate": "2025-07-04",
+                "documentDate": "2025-06-30",
+                "number": "1306-002",
+                "numberAssociated": [
+                    "1306"
+                ],
+                "processPrint": [
+                    "1306"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1306 - opinia KZBS"
             }
         ],
         "attachments": [
