@@ -41698,6 +41698,23 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1345 - cofnięcie poparcia dla projektu"
+            },
+            {
+                "attachments": [
+                    "1345-002.pdf"
+                ],
+                "changeDate": "2025-07-07T11:51:09",
+                "deliveryDate": "2025-07-07",
+                "documentDate": "2025-06-30",
+                "number": "1345-002",
+                "numberAssociated": [
+                    "1345"
+                ],
+                "processPrint": [
+                    "1345"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1345 - opinia Zespołu Roboczego Koalicji dla Psychoterapii"
             }
         ],
         "attachments": [
@@ -42256,6 +42273,25 @@
         "title": "Sprawozdanie Komisji do Spraw Deregulacji oraz Komisji Finansów Publicznych o rządowym projekcie ustawy o uchyleniu ustawy o Centralnej Informacji Emerytalnej."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1374-001.pdf"
+                ],
+                "changeDate": "2025-07-07T11:50:53",
+                "deliveryDate": "2025-07-07",
+                "documentDate": "2025-07-02",
+                "number": "1374-001",
+                "numberAssociated": [
+                    "1374"
+                ],
+                "processPrint": [
+                    "1374"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1374 - opinia KRASP"
+            }
+        ],
         "attachments": [
             "1374.pdf",
             "1374-ustawa.docx",
@@ -42305,6 +42341,23 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1376 - opinia NBP (nie zgłoszono uwag)"
+            },
+            {
+                "attachments": [
+                    "1376-002.pdf"
+                ],
+                "changeDate": "2025-07-07T11:51:17",
+                "deliveryDate": "2025-07-07",
+                "documentDate": "2025-07-04",
+                "number": "1376-002",
+                "numberAssociated": [
+                    "1376"
+                ],
+                "processPrint": [
+                    "1376"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1376 - opinia KRIR (nie zgłoszono uwag)"
             }
         ],
         "attachments": [
