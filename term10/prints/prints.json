@@ -43213,12 +43213,33 @@
     },
     {
         "attachments": [
-            ""
+            "1440.pdf",
+            "1440-ustawa.docx",
+            "1440-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-07T20:47:30",
+        "changeDate": "2025-07-07T20:58:36",
+        "deliveryDate": "2025-07-07",
+        "documentDate": "2025-07-02",
+        "number": "1440",
+        "processPrint": [
+            "1440"
+        ],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy - Kodeks spółek handlowych, ustawy o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary oraz ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu."
+    },
+    {
+        "attachments": [
+            "1442.pdf",
+            "1442-ustawa.docx",
+            "1442-uzasadnienie.docx"
+        ],
+        "changeDate": "2025-07-07T20:58:46",
+        "deliveryDate": "2025-07-07",
         "documentDate": "2025-07-02",
         "number": "1442",
-        "processPrint": [],
+        "processPrint": [
+            "1442"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy - Kodeks postępowania cywilnego."
     }
