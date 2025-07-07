@@ -43136,13 +43136,30 @@
     },
     {
         "attachments": [
-            ""
+            "1415.pdf"
         ],
-        "changeDate": "2025-07-07T19:30:08",
+        "changeDate": "2025-07-07T19:36:34",
+        "deliveryDate": "2025-07-07",
         "documentDate": "2025-07-07",
         "number": "1415",
-        "processPrint": [],
+        "processPrint": [
+            "1380"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji do Spraw Deregulacji o rządowym projekcie ustawy o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych."
+    },
+    {
+        "attachments": [
+            "1422.pdf",
+            "V2_164-21.NK.docx"
+        ],
+        "changeDate": "2025-07-07T19:45:57",
+        "documentDate": "2025-07-07",
+        "number": "1422",
+        "processPrint": [
+            "1375"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji do Spraw Deregulacji oraz Komisji Finansów Publicznych o rządowym projekcie ustawy zmieniającej ustawę o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw."
     }
 ]
