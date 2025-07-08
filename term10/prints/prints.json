@@ -37205,6 +37205,23 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1186 - opinia PUODO"
+            },
+            {
+                "attachments": [
+                    "1186-006.pdf"
+                ],
+                "changeDate": "2025-07-08T17:07:52",
+                "deliveryDate": "2025-07-08",
+                "documentDate": "2025-07-08",
+                "number": "1186-006",
+                "numberAssociated": [
+                    "1186"
+                ],
+                "processPrint": [
+                    "1186"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1186 - zmiana przedstawiciela wnioskodawców."
             }
         ],
         "attachments": [
@@ -43220,10 +43237,10 @@
     },
     {
         "attachments": [
-            "1411.pdf",
-            "1411.doc"
+            "1411.doc",
+            "1411.pdf"
         ],
-        "changeDate": "2025-07-08T16:49:32",
+        "changeDate": "2025-07-08T16:58:56",
         "deliveryDate": "2025-07-08",
         "documentDate": "2025-07-08",
         "number": "1411",
