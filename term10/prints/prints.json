@@ -43364,12 +43364,16 @@
     },
     {
         "attachments": [
-            ""
+            "1438.pdf",
+            "1438-ustawa.docx",
+            "1438-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-08T09:37:06",
+        "changeDate": "2025-07-08T09:45:34",
         "documentDate": "2025-07-02",
         "number": "1438",
-        "processPrint": [],
+        "processPrint": [
+            "1438"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy - Karta Nauczyciela."
     },
@@ -43463,12 +43467,16 @@
     },
     {
         "attachments": [
-            ""
+            "1445.pdf",
+            "1445-ustawa.docx",
+            "1445-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-08T09:37:06",
+        "changeDate": "2025-07-08T09:48:40",
         "documentDate": "2025-07-02",
         "number": "1445",
-        "processPrint": [],
+        "processPrint": [
+            "1445"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz niektórych innych ustaw."
     },
