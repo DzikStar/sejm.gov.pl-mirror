@@ -37296,7 +37296,8 @@
                 "attachments": [
                     "1187-005.pdf"
                 ],
-                "changeDate": "2025-07-08T12:46:52",
+                "changeDate": "2025-07-08T13:41:09",
+                "deliveryDate": "2025-07-08",
                 "documentDate": "2025-07-07",
                 "number": "1187-005",
                 "numberAssociated": [
@@ -42548,7 +42549,8 @@
                 "attachments": [
                     "1383-001.pdf"
                 ],
-                "changeDate": "2025-07-08T12:46:43",
+                "changeDate": "2025-07-08T13:41:09",
+                "deliveryDate": "2025-07-08",
                 "documentDate": "2025-07-07",
                 "number": "1383-001",
                 "numberAssociated": [
@@ -42764,7 +42766,8 @@
                 "attachments": [
                     "1389-005.pdf"
                 ],
-                "changeDate": "2025-07-08T12:46:32",
+                "changeDate": "2025-07-08T13:41:09",
+                "deliveryDate": "2025-07-08",
                 "documentDate": "2025-07-07",
                 "number": "1389-005",
                 "numberAssociated": [
@@ -42780,7 +42783,8 @@
                 "attachments": [
                     "1389-006.pdf"
                 ],
-                "changeDate": "2025-07-08T12:46:20",
+                "changeDate": "2025-07-08T13:41:01",
+                "deliveryDate": "2025-07-08",
                 "documentDate": "2025-07-08",
                 "number": "1389-006",
                 "numberAssociated": [
@@ -43844,7 +43848,8 @@
         "attachments": [
             "1461.pdf"
         ],
-        "changeDate": "2025-07-08T12:47:33",
+        "changeDate": "2025-07-08T13:41:09",
+        "deliveryDate": "2025-07-08",
         "documentDate": "2025-06-26",
         "number": "1461",
         "processPrint": [
@@ -43871,7 +43876,8 @@
         "attachments": [
             "1463.pdf"
         ],
-        "changeDate": "2025-07-08T12:47:03",
+        "changeDate": "2025-07-08T13:41:09",
+        "deliveryDate": "2025-07-08",
         "documentDate": "2025-06-16",
         "number": "1463",
         "processPrint": [
@@ -43884,7 +43890,8 @@
         "attachments": [
             "1464.pdf"
         ],
-        "changeDate": "2025-07-08T13:26:56",
+        "changeDate": "2025-07-08T13:41:09",
+        "deliveryDate": "2025-07-08",
         "documentDate": "2025-07-02",
         "number": "1464",
         "processPrint": [
@@ -43895,12 +43902,15 @@
     },
     {
         "attachments": [
-            ""
+            "1465.pdf"
         ],
-        "changeDate": "2025-07-08T12:56:49",
+        "changeDate": "2025-07-08T13:41:09",
+        "deliveryDate": "2025-07-08",
         "documentDate": "2025-06-27",
         "number": "1465",
-        "processPrint": [],
+        "processPrint": [
+            "1465"
+        ],
         "term": 10,
         "title": "Sprawozdanie z działalności regionalnych izb obrachunkowych i wykonania budżetu przez jednostki samorządu terytorialnego w 2024 roku."
     }
