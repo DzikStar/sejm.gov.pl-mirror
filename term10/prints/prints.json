@@ -43882,12 +43882,14 @@
     },
     {
         "attachments": [
-            ""
+            "1464.pdf"
         ],
-        "changeDate": "2025-07-08T12:46:06",
+        "changeDate": "2025-07-08T13:26:56",
         "documentDate": "2025-07-02",
         "number": "1464",
-        "processPrint": [],
+        "processPrint": [
+            "1464"
+        ],
         "term": 10,
         "title": "Przedstawiona przez Ministra Sprawiedliwości \"Informacja na temat przetwarzania danych telekomunikacyjnych, pocztowych i internetowych oraz wyników przeprowadzonych kontroli w 2024 r.\"."
     },
