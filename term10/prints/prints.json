@@ -43289,36 +43289,104 @@
     },
     {
         "attachments": [
-            ""
+            "1433.pdf",
+            "1433-ustawa.docx",
+            "1433-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-08T09:09:28",
+        "changeDate": "2025-07-08T09:25:42",
+        "documentDate": "2025-06-25",
+        "number": "1433",
+        "processPrint": [
+            "1433"
+        ],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o szczególnych rozwiązaniach w zakresie przechowywania nawozów naturalnych."
+    },
+    {
+        "attachments": [
+            "1434.pdf",
+            "1434-ustawa.docx",
+            "1434-uzasadnienie.docx"
+        ],
+        "changeDate": "2025-07-08T09:30:48",
         "documentDate": "2025-07-02",
         "number": "1434",
-        "processPrint": [],
+        "processPrint": [
+            "1434"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej."
     },
     {
         "attachments": [
-            ""
+            "1435.pdf",
+            "1435-ustawa.docx",
+            "1435-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-08T09:09:28",
+        "changeDate": "2025-07-08T09:18:53",
         "documentDate": "2025-07-02",
         "number": "1435",
-        "processPrint": [],
+        "processPrint": [
+            "1435"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy o produktach pochodzenia zwierzęcego oraz ustawy o bezpieczeństwie żywności i żywienia."
     },
     {
         "attachments": [
-            ""
+            "1436.pdf",
+            "1436-ustawa.docx",
+            "1436-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-08T09:09:28",
+        "changeDate": "2025-07-08T09:21:38",
         "documentDate": "2025-07-02",
         "number": "1436",
-        "processPrint": [],
+        "processPrint": [
+            "1436"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych."
+    },
+    {
+        "attachments": [
+            "1437.pdf",
+            "1437-ustawa.docx",
+            "1437-uzasadnienie.docx"
+        ],
+        "changeDate": "2025-07-08T09:35:34",
+        "documentDate": "2025-07-02",
+        "number": "1437",
+        "processPrint": [
+            "1437"
+        ],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo o ruchu drogowym."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-07-08T09:37:06",
+        "documentDate": "2025-07-02",
+        "number": "1438",
+        "processPrint": [],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy - Karta Nauczyciela."
+    },
+    {
+        "attachments": [
+            "1439.pdf",
+            "1439-ustawa.docx",
+            "1439-uzasadnienie.docx"
+        ],
+        "changeDate": "2025-07-08T09:33:11",
+        "documentDate": "2025-07-03",
+        "number": "1439",
+        "processPrint": [
+            "1439"
+        ],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy - Ordynacja podatkowa."
     },
     {
         "attachments": [
@@ -43338,12 +43406,16 @@
     },
     {
         "attachments": [
-            ""
+            "1441.pdf",
+            "1441-ustawa.docx",
+            "1441-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-08T09:10:41",
+        "changeDate": "2025-07-08T09:28:05",
         "documentDate": "2025-07-03",
         "number": "1441",
-        "processPrint": [],
+        "processPrint": [
+            "1441"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy o podatku dochodowym od osób prawnych."
     },
@@ -43362,6 +43434,43 @@
         ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy - Kodeks postępowania cywilnego."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-07-08T09:37:06",
+        "documentDate": "2025-07-02",
+        "number": "1443",
+        "processPrint": [],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy o organizacji i funkcjonowaniu funduszy emerytalnych."
+    },
+    {
+        "attachments": [
+            "1444.pdf",
+            "1444-ustawa.docx",
+            "1444-uzasadnienie.docx"
+        ],
+        "changeDate": "2025-07-08T09:39:56",
+        "documentDate": "2025-07-02",
+        "number": "1444",
+        "processPrint": [
+            "1444"
+        ],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo o notariacie oraz ustawy o księgach wieczystych i hipotece."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-07-08T09:37:06",
+        "documentDate": "2025-07-02",
+        "number": "1445",
+        "processPrint": [],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz niektórych innych ustaw."
     },
     {
         "attachments": [
