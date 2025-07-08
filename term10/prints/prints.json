@@ -43228,6 +43228,50 @@
     },
     {
         "attachments": [
+            ""
+        ],
+        "changeDate": "2025-07-08T08:49:08",
+        "documentDate": "2025-06-25",
+        "number": "1427",
+        "processPrint": [],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo o ruchu drogowym oraz ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-07-08T08:49:08",
+        "documentDate": "2025-06-25",
+        "number": "1430",
+        "processPrint": [],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy o środkach ochrony roślin."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-07-08T08:49:08",
+        "documentDate": "2025-06-25",
+        "number": "1431",
+        "processPrint": [],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy o systemie ubezpieczeń społecznych."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-07-08T08:49:08",
+        "documentDate": "2025-06-25",
+        "number": "1432",
+        "processPrint": [],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo o postepowaniu przed sądami administracyjnymi."
+    },
+    {
+        "attachments": [
             "1440.pdf",
             "1440-ustawa.docx",
             "1440-uzasadnienie.docx"
@@ -43257,5 +43301,33 @@
         ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy - Kodeks postępowania cywilnego."
+    },
+    {
+        "attachments": [
+            "1451.pdf",
+            "1451-ustawa.docx",
+            "1451-uzasadnienie.docx"
+        ],
+        "changeDate": "2025-07-08T08:47:26",
+        "documentDate": "2025-07-03",
+        "number": "1451",
+        "processPrint": [
+            "1451"
+        ],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie niektórych ustaw w celu poprawy bezpieczeństwa ruchu drogowego."
+    },
+    {
+        "attachments": [
+            "1452.pdf"
+        ],
+        "changeDate": "2025-07-08T08:49:04",
+        "documentDate": "2025-07-07",
+        "number": "1452",
+        "processPrint": [
+            "1452"
+        ],
+        "term": 10,
+        "title": "Wniosek Rady Ministrów o wyrażenie przez Sejm Rzeczypospolitej Polskiej zgody na przedłużenie czasowego ograniczenia prawa do złożenia wniosku o udzielenie ochrony międzynarodowej na granicy państwowej z Republiką Białorusi."
     }
 ]
