@@ -43180,6 +43180,20 @@
     },
     {
         "attachments": [
+            "1423.pdf",
+            "V5_96-26.NK.docx"
+        ],
+        "changeDate": "2025-07-08T11:03:31",
+        "documentDate": "2025-07-07",
+        "number": "1423",
+        "processPrint": [
+            "1377"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji do Spraw Deregulacji oraz Komisji Finansów Publicznych o rządowym projekcie ustawy o zmianie ustawy - Prawo bankowe oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
             "1424.pdf",
             "1424-ustawa.docx",
             "1424-uzasadnienie.docx"
@@ -43619,12 +43633,14 @@
     },
     {
         "attachments": [
-            ""
+            "1454.pdf"
         ],
-        "changeDate": "2025-07-08T10:21:27",
+        "changeDate": "2025-07-08T10:49:19",
         "documentDate": "2025-06-27",
         "number": "1454",
-        "processPrint": [],
+        "processPrint": [
+            "1454"
+        ],
         "term": 10,
         "title": "Kandydat na stanowisko sędziego Trybunału Konstytucyjnego - Pan Marek Ast."
     },
@@ -43643,23 +43659,29 @@
     },
     {
         "attachments": [
-            ""
+            "1456.pdf",
+            "1456-ustawa i uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-08T10:28:28",
+        "changeDate": "2025-07-08T11:15:46",
         "documentDate": "2025-06-23",
         "number": "1456",
-        "processPrint": [],
+        "processPrint": [
+            "1456"
+        ],
         "term": 10,
         "title": "Poselski projekt ustawy o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej."
     },
     {
         "attachments": [
-            ""
+            "1457.pdf",
+            "1457-ustawa i uzasadnienie .docx"
         ],
-        "changeDate": "2025-07-08T10:38:16",
+        "changeDate": "2025-07-08T10:53:36",
         "documentDate": "2025-06-10",
         "number": "1457",
-        "processPrint": [],
+        "processPrint": [
+            "1457"
+        ],
         "term": 10,
         "title": "Poselski projekt ustawy o związkach partnerskich."
     },
@@ -43676,5 +43698,52 @@
         ],
         "term": 10,
         "title": "Poselski projekt ustawy - Przepisy wprowadzające ustawę o związkach partnerskich."
+    },
+    {
+        "attachments": [
+            "1459.pdf",
+            "1459-ustawa i uzasadnienie.docx"
+        ],
+        "changeDate": "2025-07-08T11:12:39",
+        "documentDate": "2025-03-26",
+        "number": "1459",
+        "processPrint": [
+            "1459"
+        ],
+        "term": 10,
+        "title": "Poselski projekt ustawy o zmianie ustawy - o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka - \"Aktywny rodzic\"."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-07-08T10:56:21",
+        "documentDate": "2025-06-25",
+        "number": "1460",
+        "processPrint": [],
+        "term": 10,
+        "title": "Komisyjny projekt uchwały w sprawie wyrażenia sprzeciwu wobec rozpowszechniania nieprawdziwych informacji dotyczących prywatyzacji systemu ochrony zdrowia w Polsce."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-07-08T11:03:08",
+        "documentDate": "2025-06-26",
+        "number": "1461",
+        "processPrint": [],
+        "term": 10,
+        "title": "Informacja za 2024 rok na temat działalności Policji, Biura Nadzoru Wewnętrznego, Służby Ochrony Państwa."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-07-08T11:03:08",
+        "documentDate": "2025-06-24",
+        "number": "1462",
+        "processPrint": [],
+        "term": 10,
+        "title": "Informacja o działalności Rzecznika Praw Obywatelskich w 2024 roku wraz z uwagami o stanie przestrzegania wolności i praw człowieka i obywatela."
     }
 ]
