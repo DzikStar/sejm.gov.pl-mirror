@@ -43087,7 +43087,8 @@
         "attachments": [
             "1400-A.pdf"
         ],
-        "changeDate": "2025-07-09T16:03:07",
+        "changeDate": "2025-07-09T16:16:04",
+        "deliveryDate": "2025-07-09",
         "documentDate": "2025-07-09",
         "number": "1400-A",
         "processPrint": [
@@ -43212,6 +43213,22 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1404 - opinia FZZ"
+            },
+            {
+                "attachments": [
+                    "1404-003.pdf"
+                ],
+                "changeDate": "2025-07-09T16:35:00",
+                "documentDate": "2025-07-07",
+                "number": "1404-003",
+                "numberAssociated": [
+                    "1404"
+                ],
+                "processPrint": [
+                    "1404"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1404 - opinia ZUS"
             }
         ],
         "attachments": [
@@ -43398,7 +43415,8 @@
             "1418.pdf",
             "V5_2176-4.NK.docx"
         ],
-        "changeDate": "2025-07-09T16:12:01",
+        "changeDate": "2025-07-09T16:15:11",
+        "deliveryDate": "2025-07-09",
         "documentDate": "2025-07-08",
         "number": "1418",
         "processPrint": [
@@ -43456,7 +43474,8 @@
         "attachments": [
             "1422-A.pdf"
         ],
-        "changeDate": "2025-07-09T16:04:39",
+        "changeDate": "2025-07-09T16:16:18",
+        "deliveryDate": "2025-07-09",
         "documentDate": "2025-07-09",
         "number": "1422-A",
         "processPrint": [
@@ -43964,6 +43983,21 @@
     },
     {
         "attachments": [
+            "1453.pdf",
+            "V7_2597-0.PK.docx"
+        ],
+        "changeDate": "2025-07-09T16:20:29",
+        "deliveryDate": "2025-07-09",
+        "documentDate": "2025-07-08",
+        "number": "1453",
+        "processPrint": [
+            "1310"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji do Spraw Energii, Klimatu i Aktywów Państwowych oraz Komisji do Spraw Deregulacji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu dokonania deregulacji w zakresie energetyki."
+    },
+    {
+        "attachments": [
             "1454.pdf"
         ],
         "changeDate": "2025-07-08T12:40:58",
@@ -44206,7 +44240,8 @@
         "attachments": [
             "1470.pdf"
         ],
-        "changeDate": "2025-07-09T16:07:25",
+        "changeDate": "2025-07-09T16:16:33",
+        "deliveryDate": "2025-07-09",
         "documentDate": "2025-07-09",
         "number": "1470",
         "processPrint": [
