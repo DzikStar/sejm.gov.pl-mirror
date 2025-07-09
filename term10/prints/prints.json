@@ -40389,12 +40389,15 @@
     },
     {
         "attachments": [
-            ""
+            "1300-A.pdf"
         ],
-        "changeDate": "2025-07-09T12:33:14",
+        "changeDate": "2025-07-09T12:56:45",
+        "deliveryDate": "2025-07-09",
         "documentDate": "2025-07-09",
         "number": "1300-A",
-        "processPrint": [],
+        "processPrint": [
+            "1043"
+        ],
         "term": 10,
         "title": "Dodatkowe sprawozdanie Komisji do Spraw Unii Europejskiej o poselskich projektach uchwał: w sprawie niewprowadzania w życie przepisów aktów prawnych składających się na tzw. Pakt o migracji i azylu, w sprawie zobowiązania Rządu RP do jednostronnego wypowiedzenia Paktu Migracyjnego, w sprawie polityki migracyjnej i ochrony wschodniej granicy Rzeczypospolitej Polskiej."
     },
