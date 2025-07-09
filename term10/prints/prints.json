@@ -41194,7 +41194,8 @@
                 "attachments": [
                     "1319-002.pdf"
                 ],
-                "changeDate": "2025-07-09T13:41:09",
+                "changeDate": "2025-07-09T13:51:00",
+                "deliveryDate": "2025-07-09",
                 "documentDate": "2025-07-08",
                 "number": "1319-002",
                 "numberAssociated": [
@@ -43281,6 +43282,21 @@
     },
     {
         "attachments": [
+            "1410.pdf",
+            "V8_352-13.NK.docx"
+        ],
+        "changeDate": "2025-07-09T14:13:13",
+        "deliveryDate": "2025-07-09",
+        "documentDate": "2025-07-08",
+        "number": "1410",
+        "processPrint": [
+            "1078"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Infrastruktury oraz Komisji Samorządu Terytorialnego i Polityki Regionalnej o rządowym projekcie ustawy o zmianie ustawy o społecznych formach rozwoju mieszkalnictwa oraz niektórych innych ustaw, o poselskim projekcie ustawy o zmianie ustawy o społecznych formach rozwoju mieszkalnictwa oraz niektórych innych ustaw, o poselskim projekcie ustawy o zmianie ustawy o zmianie ustawy o finansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni i domów dla bezdomnych oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
             "1411.pdf"
         ],
         "changeDate": "2025-07-08T18:11:23",
@@ -43627,7 +43643,8 @@
                 "attachments": [
                     "1438-001.pdf"
                 ],
-                "changeDate": "2025-07-09T13:38:47",
+                "changeDate": "2025-07-09T13:50:37",
+                "deliveryDate": "2025-07-09",
                 "documentDate": "2025-07-09",
                 "number": "1438-001",
                 "numberAssociated": [
@@ -43926,7 +43943,8 @@
                 "attachments": [
                     "1457-001.pdf"
                 ],
-                "changeDate": "2025-07-09T13:40:10",
+                "changeDate": "2025-07-09T13:51:19",
+                "deliveryDate": "2025-07-09",
                 "documentDate": "2025-07-08",
                 "number": "1457-001",
                 "numberAssociated": [
@@ -43959,7 +43977,8 @@
                 "attachments": [
                     "1458-001.pdf"
                 ],
-                "changeDate": "2025-07-09T13:40:51",
+                "changeDate": "2025-07-09T13:51:39",
+                "deliveryDate": "2025-07-09",
                 "documentDate": "2025-07-08",
                 "number": "1458-001",
                 "numberAssociated": [
