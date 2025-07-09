@@ -42207,6 +42207,20 @@
     },
     {
         "attachments": [
+            "1362-A.pdf"
+        ],
+        "changeDate": "2025-07-09T15:42:07",
+        "deliveryDate": "2025-07-09",
+        "documentDate": "2025-07-09",
+        "number": "1362-A",
+        "processPrint": [
+            "1264"
+        ],
+        "term": 10,
+        "title": "Dodatkowe sprawozdanie Komisji Nadzwyczajnej do spraw zmian w kodyfikacjach o rządowym projekcie ustawy o zmianie ustawy - Kodeks postępowania karnego oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
             "1363.pdf"
         ],
         "changeDate": "2025-06-25T17:52:29",
@@ -43340,6 +43354,20 @@
     },
     {
         "attachments": [
+            "1414-A.pdf"
+        ],
+        "changeDate": "2025-07-09T15:37:36",
+        "deliveryDate": "2025-07-09",
+        "documentDate": "2025-07-09",
+        "number": "1414-A",
+        "processPrint": [
+            "1239"
+        ],
+        "term": 10,
+        "title": "Dodatkowe sprawozdanie Komisji do Spraw Energii, Klimatu i Aktywów Państwowych o rządowym projekcie ustawy o zmianie ustawy o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
             "1415.pdf"
         ],
         "changeDate": "2025-07-07T19:36:34",
@@ -44136,16 +44164,38 @@
     },
     {
         "attachments": [
-            ""
+            "1471.pdf"
         ],
-        "changeDate": "2025-07-09T15:18:39",
+        "changeDate": "2025-07-09T15:42:20",
+        "deliveryDate": "2025-07-09",
         "documentDate": "2025-07-09",
         "number": "1471",
-        "processPrint": [],
+        "processPrint": [
+            "1299"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji Gospodarki i Rozwoju w sprawie Informacji o realizacji ustawy o specjalnych strefach ekonomicznych. Stan na 31 grudnia 2024 r."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1472-001.pdf"
+                ],
+                "changeDate": "2025-07-09T15:46:41",
+                "deliveryDate": "2025-07-09",
+                "documentDate": "2025-07-09",
+                "number": "1472-001",
+                "numberAssociated": [
+                    "1472"
+                ],
+                "processPrint": [
+                    "1472"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1472 - projekty aktów wykonawczych"
+            }
+        ],
         "attachments": [
             "1472.pdf",
             "1472-ustawa.docx",
