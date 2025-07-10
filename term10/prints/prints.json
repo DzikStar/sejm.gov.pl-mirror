@@ -44453,35 +44453,88 @@
     },
     {
         "attachments": [
-            ""
+            "1484.pdf",
+            "1484-ustawa.docx",
+            "1484-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-10T10:40:59",
+        "changeDate": "2025-07-10T10:52:51",
         "documentDate": "2025-07-07",
         "number": "1484",
-        "processPrint": [],
+        "processPrint": [
+            "1484"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o ratyfikacji Umowy o Międzynarodowej Korporacji Finansowej, sporządzonej w Waszyngtonie dnia 20 lipca 1956 r."
     },
     {
         "attachments": [
-            ""
+            "1485.pdf",
+            "1485-ustawa.docx",
+            "1485-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-10T10:47:15",
+        "changeDate": "2025-07-10T11:04:19",
         "documentDate": "2025-07-07",
         "number": "1485",
-        "processPrint": [],
+        "processPrint": [
+            "1485"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o ratyfikacji Umowy o Międzynarodowym Banku Odbudowy i Rozwoju, sporządzonej w Bretton Woods dnia 22 lipca 1944 r. wraz z poprawkami, tj. Rezolucjami Rady Gubernatorów Międzynarodowego Banku Odbudowy i Rozwoju o numerach 221, 417,596, 696, przyjętymi odpowiednio dnia 25 sierpnia 1965 r., 30 czerwca 1987 r., 30 stycznia 2009 r. oraz 10 lipca 2023 r."
     },
     {
         "attachments": [
-            ""
+            "1486.pdf",
+            "1486-ustawa.docx",
+            "1486-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-10T10:25:55",
+        "changeDate": "2025-07-10T11:09:07",
+        "documentDate": "2025-07-07",
+        "number": "1486",
+        "processPrint": [
+            "1486"
+        ],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o ratyfikacji Umowy o Międzynarodowym Funduszu Walutowym, sporządzonej w Bretton Woods dnia 22 lipca 1944 r., w wersji tej Umowy nadanej Drugą Poprawką przyjętą Rezolucją nr 31-4 Rady Gubernatorów Międzynarodowego Funduszu Walutowego z dnia 30 kwietnia 1976 r., wraz z Trzecią Poprawką przyjętą Rezolucją nr 45-3 Rady Gubernatorów Międzynarodowego Funduszu Walutowego z dnia 28 czerwca 1990 r. oraz z Czwartą Poprawką przyjętą Rezolucją nr 52-4 Rady Gubernatorów Międzynarodowego Funduszu Walutowego z dnia 23 września 1997 r."
+    },
+    {
+        "attachments": [
+            "1487.pdf",
+            "1487-ustawa.docx",
+            "1487-uzasadnienie.docx"
+        ],
+        "changeDate": "2025-07-10T11:07:25",
+        "documentDate": "2025-07-07",
+        "number": "1487",
+        "processPrint": [
+            "1487"
+        ],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o ratyfikacji Umowy o Międzynarodowym Stowarzyszeniu Rozwoju, sporządzonej w Waszyngtonie dnia 26 stycznia 1960 r.."
+    },
+    {
+        "attachments": [
+            "1488.pdf",
+            "1488-ustawa.docx",
+            "1488-uzasadnienie.docx"
+        ],
+        "changeDate": "2025-07-10T11:12:56",
         "documentDate": "2025-06-25",
         "number": "1488",
-        "processPrint": [],
+        "processPrint": [
+            "1488"
+        ],
         "term": 10,
         "title": "Poselski projekt ustawy o zniesieniu opłat abonamentowych i likwidacji TVP Info."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-07-10T11:09:11",
+        "documentDate": "2025-07-09",
+        "number": "1489",
+        "processPrint": [],
+        "term": 10,
+        "title": "Poselski projekt uchwały w 90 rocznicę urodzin Jarosława Marka Rymkiewicza."
     }
 ]
