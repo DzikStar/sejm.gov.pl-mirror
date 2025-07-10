@@ -39050,12 +39050,15 @@
     },
     {
         "attachments": [
-            ""
+            "1254.pdf",
+            "1254-ustawa.docx"
         ],
-        "changeDate": "2025-07-10T13:41:39",
+        "changeDate": "2025-07-10T13:49:00",
         "documentDate": "2025-07-08",
         "number": "1254",
-        "processPrint": [],
+        "processPrint": [
+            "1184"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji Gospodarki i Rozwoju o rządowym projekcie ustawy o certyfikacji wykonawców zamówień publicznych."
     },
