@@ -44382,7 +44382,8 @@
             "1479-załączniki do ustawy.docx",
             "1479-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-10T10:41:05",
+        "changeDate": "2025-07-10T11:35:38",
+        "deliveryDate": "2025-07-10",
         "documentDate": "2025-07-07",
         "number": "1479",
         "processPrint": [
@@ -44397,7 +44398,8 @@
             "1480-ustawa.docx",
             "1480-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-10T10:41:36",
+        "changeDate": "2025-07-10T11:35:16",
+        "deliveryDate": "2025-07-10",
         "documentDate": "2025-07-08",
         "number": "1480",
         "processPrint": [
@@ -44412,7 +44414,8 @@
             "1481-ustawa.docx",
             "1481-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-10T10:42:04",
+        "changeDate": "2025-07-10T11:35:25",
+        "deliveryDate": "2025-07-10",
         "documentDate": "2025-07-08",
         "number": "1481",
         "processPrint": [
@@ -44427,7 +44430,8 @@
             "1482-ustawa.docx",
             "1482-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-10T10:47:11",
+        "changeDate": "2025-07-10T11:35:07",
+        "deliveryDate": "2025-07-10",
         "documentDate": "2025-07-08",
         "number": "1482",
         "processPrint": [
@@ -44442,7 +44446,8 @@
             "1483-ustawa.docx",
             "1483-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-10T10:45:38",
+        "changeDate": "2025-07-10T11:34:44",
+        "deliveryDate": "2025-07-10",
         "documentDate": "2025-07-07",
         "number": "1483",
         "processPrint": [
@@ -44457,7 +44462,8 @@
             "1484-ustawa.docx",
             "1484-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-10T10:52:51",
+        "changeDate": "2025-07-10T11:34:33",
+        "deliveryDate": "2025-07-10",
         "documentDate": "2025-07-07",
         "number": "1484",
         "processPrint": [
@@ -44472,7 +44478,8 @@
             "1485-ustawa.docx",
             "1485-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-10T11:04:19",
+        "changeDate": "2025-07-10T11:34:18",
+        "deliveryDate": "2025-07-10",
         "documentDate": "2025-07-07",
         "number": "1485",
         "processPrint": [
@@ -44487,7 +44494,8 @@
             "1486-ustawa.docx",
             "1486-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-10T11:09:07",
+        "changeDate": "2025-07-10T11:33:57",
+        "deliveryDate": "2025-07-10",
         "documentDate": "2025-07-07",
         "number": "1486",
         "processPrint": [
@@ -44502,7 +44510,8 @@
             "1487-ustawa.docx",
             "1487-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-10T11:07:25",
+        "changeDate": "2025-07-10T11:33:12",
+        "deliveryDate": "2025-07-10",
         "documentDate": "2025-07-07",
         "number": "1487",
         "processPrint": [
@@ -44517,7 +44526,8 @@
             "1488-ustawa.docx",
             "1488-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-10T11:12:56",
+        "changeDate": "2025-07-10T11:34:07",
+        "deliveryDate": "2025-07-10",
         "documentDate": "2025-06-25",
         "number": "1488",
         "processPrint": [
@@ -44528,12 +44538,16 @@
     },
     {
         "attachments": [
-            ""
+            "1489.pdf",
+            "1489-uchwała.docx"
         ],
-        "changeDate": "2025-07-10T11:09:11",
+        "changeDate": "2025-07-10T11:32:59",
+        "deliveryDate": "2025-07-10",
         "documentDate": "2025-07-09",
         "number": "1489",
-        "processPrint": [],
+        "processPrint": [
+            "1489"
+        ],
         "term": 10,
         "title": "Poselski projekt uchwały w 90 rocznicę urodzin Jarosława Marka Rymkiewicza."
     }
