@@ -41575,12 +41575,14 @@
     },
     {
         "attachments": [
-            ""
+            "1335.pdf"
         ],
-        "changeDate": "2025-07-10T13:12:36",
+        "changeDate": "2025-07-10T13:19:17",
         "documentDate": "2025-07-10",
         "number": "1335",
-        "processPrint": [],
+        "processPrint": [
+            "1321"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji Finansów Publicznych w sprawie Sprawozdania z działalności Narodowego Banku Polskiego w 2024 roku."
     },
@@ -44311,12 +44313,15 @@
     },
     {
         "attachments": [
-            ""
+            "1469.pdf",
+            "V7_425-68.NK.docx"
         ],
-        "changeDate": "2025-07-10T13:12:36",
+        "changeDate": "2025-07-10T13:13:10",
         "documentDate": "2025-07-09",
         "number": "1469",
-        "processPrint": [],
+        "processPrint": [
+            "1304"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji Nadzwyczajnej do spraw zmian w kodyfikacjach o rządowym projekcie ustawy o zmianie ustawy - Kodeks postępowania cywilnego, ustawy - Kodeks cywilny oraz niektórych innych ustaw."
     },
@@ -44572,5 +44577,19 @@
         ],
         "term": 10,
         "title": "Poselski projekt uchwały w 90 rocznicę urodzin Jarosława Marka Rymkiewicza."
+    },
+    {
+        "attachments": [
+            "1490.pdf",
+            "1490-uchwała.doc"
+        ],
+        "changeDate": "2025-07-10T13:24:12",
+        "documentDate": "2025-07-10",
+        "number": "1490",
+        "processPrint": [
+            "1295"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Finansów Publicznych w sprawie sprawozdania z wykonania budżetu państwa za okres od 1 stycznia do 31 grudnia 2024 r. oraz wniosku w przedmiocie absolutorium dla Rady Ministrów za ten okres."
     }
 ]
