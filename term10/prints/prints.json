@@ -42443,6 +42443,40 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1374 - opinia KRASP"
+            },
+            {
+                "attachments": [
+                    "1374-002.pdf"
+                ],
+                "changeDate": "2025-07-10T15:31:35",
+                "deliveryDate": "2025-07-10",
+                "documentDate": "2025-07-09",
+                "number": "1374-002",
+                "numberAssociated": [
+                    "1374"
+                ],
+                "processPrint": [
+                    "1374"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1374 - opinia RF (nie zgłoszono uwag)"
+            },
+            {
+                "attachments": [
+                    "1374-003.pdf"
+                ],
+                "changeDate": "2025-07-10T15:31:23",
+                "deliveryDate": "2025-07-10",
+                "documentDate": "2025-07-09",
+                "number": "1374-003",
+                "numberAssociated": [
+                    "1374"
+                ],
+                "processPrint": [
+                    "1374"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1374 - opinia SN (nie zgłoszono uwag)"
             }
         ],
         "attachments": [
@@ -43706,6 +43740,25 @@
         "title": "Rządowy projekt ustawy o zmianie ustawy o systemie ubezpieczeń społecznych."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1432-001.pdf"
+                ],
+                "changeDate": "2025-07-10T15:31:14",
+                "deliveryDate": "2025-07-10",
+                "documentDate": "2025-07-09",
+                "number": "1432-001",
+                "numberAssociated": [
+                    "1432"
+                ],
+                "processPrint": [
+                    "1432"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1432 - opinia SN (nie zgłoszono uwag)"
+            }
+        ],
         "attachments": [
             "1432.pdf",
             "1432-ustawa.docx",
