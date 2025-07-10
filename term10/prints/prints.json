@@ -39050,6 +39050,17 @@
     },
     {
         "attachments": [
+            ""
+        ],
+        "changeDate": "2025-07-10T13:41:39",
+        "documentDate": "2025-07-08",
+        "number": "1254",
+        "processPrint": [],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Gospodarki i Rozwoju o rządowym projekcie ustawy o certyfikacji wykonawców zamówień publicznych."
+    },
+    {
+        "attachments": [
             "1255.pdf"
         ],
         "changeDate": "2025-05-20T16:16:06",
@@ -41577,7 +41588,8 @@
         "attachments": [
             "1335.pdf"
         ],
-        "changeDate": "2025-07-10T13:19:17",
+        "changeDate": "2025-07-10T13:32:42",
+        "deliveryDate": "2025-07-10",
         "documentDate": "2025-07-10",
         "number": "1335",
         "processPrint": [
@@ -44316,7 +44328,8 @@
             "1469.pdf",
             "V7_425-68.NK.docx"
         ],
-        "changeDate": "2025-07-10T13:13:10",
+        "changeDate": "2025-07-10T13:32:56",
+        "deliveryDate": "2025-07-10",
         "documentDate": "2025-07-09",
         "number": "1469",
         "processPrint": [
@@ -44583,7 +44596,8 @@
             "1490.pdf",
             "1490-uchwała.doc"
         ],
-        "changeDate": "2025-07-10T13:24:12",
+        "changeDate": "2025-07-10T13:32:30",
+        "deliveryDate": "2025-07-10",
         "documentDate": "2025-07-10",
         "number": "1490",
         "processPrint": [
