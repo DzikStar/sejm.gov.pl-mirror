@@ -44321,7 +44321,8 @@
                 "attachments": [
                     "1457-002.pdf"
                 ],
-                "changeDate": "2025-07-14T13:22:59",
+                "changeDate": "2025-07-14T13:54:21",
+                "deliveryDate": "2025-07-14",
                 "documentDate": "2025-07-11",
                 "number": "1457-002",
                 "numberAssociated": [
@@ -44371,7 +44372,8 @@
                 "attachments": [
                     "1458-002.pdf"
                 ],
-                "changeDate": "2025-07-14T13:23:44",
+                "changeDate": "2025-07-14T13:54:14",
+                "deliveryDate": "2025-07-14",
                 "documentDate": "2025-07-11",
                 "number": "1458-002",
                 "numberAssociated": [
@@ -44399,6 +44401,25 @@
         "title": "Poselski projekt ustawy - Przepisy wprowadzające ustawę o związkach partnerskich."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1459-001.pdf"
+                ],
+                "changeDate": "2025-07-14T14:31:59",
+                "deliveryDate": "2025-07-14",
+                "documentDate": "2025-07-14",
+                "number": "1459-001",
+                "numberAssociated": [
+                    "1459"
+                ],
+                "processPrint": [
+                    "1459"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1459 - ocena skutków regulacji"
+            }
+        ],
         "attachments": [
             "1459.pdf",
             "1459-ustawa i uzasadnienie.docx"
@@ -44872,7 +44893,8 @@
             "1491.pdf",
             "1491-uchwała.docx"
         ],
-        "changeDate": "2025-07-14T13:32:16",
+        "changeDate": "2025-07-14T13:54:06",
+        "deliveryDate": "2025-07-14",
         "documentDate": "2025-07-10",
         "number": "1491",
         "processPrint": [
