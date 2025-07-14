@@ -44869,12 +44869,15 @@
     },
     {
         "attachments": [
-            ""
+            "1491.pdf",
+            "1491-uchwała.docx"
         ],
-        "changeDate": "2025-07-14T13:25:37",
+        "changeDate": "2025-07-14T13:32:16",
         "documentDate": "2025-07-10",
         "number": "1491",
-        "processPrint": [],
+        "processPrint": [
+            "1491"
+        ],
         "term": 10,
         "title": "Poselski projekt uchwały w sprawie upamiętnienia 45. rocznicy Lubelskiego Lipca '80."
     }
