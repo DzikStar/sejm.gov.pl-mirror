@@ -44316,6 +44316,22 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1457 - opinia UKNF"
+            },
+            {
+                "attachments": [
+                    "1457-002.pdf"
+                ],
+                "changeDate": "2025-07-14T13:22:59",
+                "documentDate": "2025-07-11",
+                "number": "1457-002",
+                "numberAssociated": [
+                    "1457"
+                ],
+                "processPrint": [
+                    "1457"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1457 - opinia RF (nie zgłoszono uwag)"
             }
         ],
         "attachments": [
@@ -44350,6 +44366,22 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1458 - opinia UKNF"
+            },
+            {
+                "attachments": [
+                    "1458-002.pdf"
+                ],
+                "changeDate": "2025-07-14T13:23:44",
+                "documentDate": "2025-07-11",
+                "number": "1458-002",
+                "numberAssociated": [
+                    "1458"
+                ],
+                "processPrint": [
+                    "1458"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1458 - opinia RF (nie zgłoszono uwag)"
             }
         ],
         "attachments": [
@@ -44834,5 +44866,16 @@
         ],
         "term": 10,
         "title": "Sprawozdanie Komisji Finansów Publicznych w sprawie sprawozdania z wykonania budżetu państwa za okres od 1 stycznia do 31 grudnia 2024 r. oraz wniosku w przedmiocie absolutorium dla Rady Ministrów za ten okres."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-07-14T13:25:37",
+        "documentDate": "2025-07-10",
+        "number": "1491",
+        "processPrint": [],
+        "term": 10,
+        "title": "Poselski projekt uchwały w sprawie upamiętnienia 45. rocznicy Lubelskiego Lipca '80."
     }
 ]
