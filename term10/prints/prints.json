@@ -38811,6 +38811,22 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1241 - akt wykonawczy"
+            },
+            {
+                "attachments": [
+                    "1241-002.pdf"
+                ],
+                "changeDate": "2025-07-16T08:48:54",
+                "documentDate": "2025-07-07",
+                "number": "1241-002",
+                "numberAssociated": [
+                    "1241"
+                ],
+                "processPrint": [
+                    "1241"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1241 - opinia KIRP"
             }
         ],
         "attachments": [
@@ -42734,6 +42750,22 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1382 - opinia SN (nie zgłoszono uwag)"
+            },
+            {
+                "attachments": [
+                    "1382-002.pdf"
+                ],
+                "changeDate": "2025-07-16T08:49:59",
+                "documentDate": "2025-07-14",
+                "number": "1382-002",
+                "numberAssociated": [
+                    "1382"
+                ],
+                "processPrint": [
+                    "1382"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1382 - opinia RF"
             }
         ],
         "attachments": [
@@ -43279,6 +43311,22 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1402 - opinia PUODO"
+            },
+            {
+                "attachments": [
+                    "1402-003.pdf"
+                ],
+                "changeDate": "2025-07-16T08:50:59",
+                "documentDate": "2025-07-03",
+                "number": "1402-003",
+                "numberAssociated": [
+                    "1402"
+                ],
+                "processPrint": [
+                    "1402"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1402 - opinia KIRP"
             }
         ],
         "attachments": [
@@ -43934,6 +43982,24 @@
         "title": "Rządowy projekt ustawy o zmianie ustawy o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1435-001.pdf"
+                ],
+                "changeDate": "2025-07-16T08:52:03",
+                "documentDate": "2025-07-14",
+                "number": "1435-001",
+                "numberAssociated": [
+                    "1435"
+                ],
+                "processPrint": [
+                    "1435"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1435 - opinia PUODO (nie zgłoszono uwag)"
+            }
+        ],
         "attachments": [
             "1435.pdf",
             "1435-ustawa.docx",
