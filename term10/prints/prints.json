@@ -43991,7 +43991,8 @@
                 "attachments": [
                     "1434-001.pdf"
                 ],
-                "changeDate": "2025-07-17T12:05:59",
+                "changeDate": "2025-07-17T12:55:14",
+                "deliveryDate": "2025-07-17",
                 "documentDate": "2025-07-16",
                 "number": "1434-001",
                 "numberAssociated": [
@@ -44144,7 +44145,8 @@
                 "attachments": [
                     "1439-002.pdf"
                 ],
-                "changeDate": "2025-07-17T10:43:01",
+                "changeDate": "2025-07-17T12:55:21",
+                "deliveryDate": "2025-07-17",
                 "documentDate": "2025-07-16",
                 "number": "1439-002",
                 "numberAssociated": [
@@ -44178,7 +44180,8 @@
                 "attachments": [
                     "1440-001.pdf"
                 ],
-                "changeDate": "2025-07-17T10:40:15",
+                "changeDate": "2025-07-17T12:55:29",
+                "deliveryDate": "2025-07-17",
                 "documentDate": "2025-07-15",
                 "number": "1440-001",
                 "numberAssociated": [
@@ -44331,7 +44334,8 @@
                 "attachments": [
                     "1445-001.pdf"
                 ],
-                "changeDate": "2025-07-17T10:33:35",
+                "changeDate": "2025-07-17T12:55:38",
+                "deliveryDate": "2025-07-17",
                 "documentDate": "2025-07-15",
                 "number": "1445-001",
                 "numberAssociated": [
@@ -44381,7 +44385,8 @@
                 "attachments": [
                     "1447-001.pdf"
                 ],
-                "changeDate": "2025-07-17T10:28:41",
+                "changeDate": "2025-07-17T12:55:44",
+                "deliveryDate": "2025-07-17",
                 "documentDate": "2025-07-16",
                 "number": "1447-001",
                 "numberAssociated": [
@@ -44410,6 +44415,24 @@
         "title": "Rządowy projekt ustawy o zmianie ustawy o ochronie przyrody."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1448-001.pdf"
+                ],
+                "changeDate": "2025-07-17T13:13:47",
+                "documentDate": "2025-07-16",
+                "number": "1448-001",
+                "numberAssociated": [
+                    "1448"
+                ],
+                "processPrint": [
+                    "1448"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1448 - projekt aktu wykonawczego"
+            }
+        ],
         "attachments": [
             "1448.pdf",
             "1448-ustawa.docx",
@@ -44636,7 +44659,8 @@
                 "attachments": [
                     "1457-006.pdf"
                 ],
-                "changeDate": "2025-07-17T12:06:46",
+                "changeDate": "2025-07-17T12:55:07",
+                "deliveryDate": "2025-07-17",
                 "documentDate": "2025-07-14",
                 "number": "1457-006",
                 "numberAssociated": [
@@ -44652,7 +44676,8 @@
                 "attachments": [
                     "1457-007.pdf"
                 ],
-                "changeDate": "2025-07-17T12:08:18",
+                "changeDate": "2025-07-17T12:54:52",
+                "deliveryDate": "2025-07-17",
                 "documentDate": "2025-07-15",
                 "number": "1457-007",
                 "numberAssociated": [
@@ -44770,7 +44795,8 @@
                 "attachments": [
                     "1458-006.pdf"
                 ],
-                "changeDate": "2025-07-17T12:07:26",
+                "changeDate": "2025-07-17T12:54:59",
+                "deliveryDate": "2025-07-17",
                 "documentDate": "2025-07-14",
                 "number": "1458-006",
                 "numberAssociated": [
@@ -44786,7 +44812,8 @@
                 "attachments": [
                     "1458-007.pdf"
                 ],
-                "changeDate": "2025-07-17T12:08:58",
+                "changeDate": "2025-07-17T12:54:42",
+                "deliveryDate": "2025-07-17",
                 "documentDate": "2025-07-15",
                 "number": "1458-007",
                 "numberAssociated": [
@@ -45345,5 +45372,21 @@
         ],
         "term": 10,
         "title": "Poselski projekt uchwały w sprawie upamiętnienia 45. rocznicy Lubelskiego Lipca '80."
+    },
+    {
+        "attachments": [
+            "1492.pdf",
+            "1492-ustawa.docx",
+            "1492-uzasadnienie.docx"
+        ],
+        "changeDate": "2025-07-17T13:11:59",
+        "deliveryDate": "2025-07-17",
+        "documentDate": "2025-07-16",
+        "number": "1492",
+        "processPrint": [
+            "1492"
+        ],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw."
     }
 ]
