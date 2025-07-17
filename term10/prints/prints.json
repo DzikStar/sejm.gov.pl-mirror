@@ -43986,6 +43986,24 @@
         "title": "Rządowy projekt ustawy o szczególnych rozwiązaniach w zakresie przechowywania nawozów naturalnych."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1434-001.pdf"
+                ],
+                "changeDate": "2025-07-17T12:05:59",
+                "documentDate": "2025-07-16",
+                "number": "1434-001",
+                "numberAssociated": [
+                    "1434"
+                ],
+                "processPrint": [
+                    "1434"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1434 - opinia SN (nie zgłoszono uwag)"
+            }
+        ],
         "attachments": [
             "1434.pdf",
             "1434-ustawa.docx",
@@ -44613,6 +44631,38 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1457 - opinia KRN"
+            },
+            {
+                "attachments": [
+                    "1457-006.pdf"
+                ],
+                "changeDate": "2025-07-17T12:06:46",
+                "documentDate": "2025-07-14",
+                "number": "1457-006",
+                "numberAssociated": [
+                    "1457"
+                ],
+                "processPrint": [
+                    "1457"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1457 - opinia GIP"
+            },
+            {
+                "attachments": [
+                    "1457-007.pdf"
+                ],
+                "changeDate": "2025-07-17T12:08:18",
+                "documentDate": "2025-07-15",
+                "number": "1457-007",
+                "numberAssociated": [
+                    "1457"
+                ],
+                "processPrint": [
+                    "1457"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1457 - opinia PUZP"
             }
         ],
         "attachments": [
@@ -44715,6 +44765,38 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1458 - opinia KRN"
+            },
+            {
+                "attachments": [
+                    "1458-006.pdf"
+                ],
+                "changeDate": "2025-07-17T12:07:26",
+                "documentDate": "2025-07-14",
+                "number": "1458-006",
+                "numberAssociated": [
+                    "1458"
+                ],
+                "processPrint": [
+                    "1458"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1458 - opinia GIP"
+            },
+            {
+                "attachments": [
+                    "1458-007.pdf"
+                ],
+                "changeDate": "2025-07-17T12:08:58",
+                "documentDate": "2025-07-15",
+                "number": "1458-007",
+                "numberAssociated": [
+                    "1458"
+                ],
+                "processPrint": [
+                    "1458"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1458 - opinia PUZP (nie zgłoszono uwag)"
             }
         ],
         "attachments": [
