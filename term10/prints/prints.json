@@ -44121,6 +44121,22 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1439 - opinia PIBR (nie zgłoszono uwag)"
+            },
+            {
+                "attachments": [
+                    "1439-002.pdf"
+                ],
+                "changeDate": "2025-07-17T10:43:01",
+                "documentDate": "2025-07-16",
+                "number": "1439-002",
+                "numberAssociated": [
+                    "1439"
+                ],
+                "processPrint": [
+                    "1439"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1439 - opinia SN (nie zgłoszono uwag)"
             }
         ],
         "attachments": [
@@ -44139,6 +44155,24 @@
         "title": "Rządowy projekt ustawy o zmianie ustawy - Ordynacja podatkowa."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1440-001.pdf"
+                ],
+                "changeDate": "2025-07-17T10:40:15",
+                "documentDate": "2025-07-15",
+                "number": "1440-001",
+                "numberAssociated": [
+                    "1440"
+                ],
+                "processPrint": [
+                    "1440"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1440 - opinia SN (nie zgłoszono uwag)"
+            }
+        ],
         "attachments": [
             "1440.pdf",
             "1440-ustawa.docx",
@@ -44274,6 +44308,24 @@
         "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo o notariacie oraz ustawy o księgach wieczystych i hipotece."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1445-001.pdf"
+                ],
+                "changeDate": "2025-07-17T10:33:35",
+                "documentDate": "2025-07-15",
+                "number": "1445-001",
+                "numberAssociated": [
+                    "1445"
+                ],
+                "processPrint": [
+                    "1445"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1445 - opinia SN (nie zgłoszono uwag)"
+            }
+        ],
         "attachments": [
             "1445.pdf",
             "1445-ustawa.docx",
@@ -44306,6 +44358,24 @@
         "title": "Rządowy projekt ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1447-001.pdf"
+                ],
+                "changeDate": "2025-07-17T10:28:41",
+                "documentDate": "2025-07-16",
+                "number": "1447-001",
+                "numberAssociated": [
+                    "1447"
+                ],
+                "processPrint": [
+                    "1447"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1447 - opinia PUODO"
+            }
+        ],
         "attachments": [
             "1447.pdf",
             "1447-ustawa.docx",
