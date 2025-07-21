@@ -2,5 +2,9 @@
     "current": false,
     "from": "1997-10-20",
     "num": 3,
+    "prints": {
+        "count": 0,
+        "link": "/term3/prints"
+    },
     "to": "2001-10-18"
 }
