@@ -31913,6 +31913,20 @@
         "additionalPrints": [
             {
                 "attachments": [
+                    "996-s.pdf"
+                ],
+                "changeDate": "2025-07-22T19:37:11",
+                "documentDate": "2025-07-22",
+                "number": "B0023994DA81F131C1258CCF0060C286",
+                "numberAssociated": [
+                    "996"
+                ],
+                "processPrint": [],
+                "term": 10,
+                "title": "Stanowisko Rządu do druku nr 996."
+            },
+            {
+                "attachments": [
                     "996-001.pdf"
                 ],
                 "changeDate": "2025-02-07T14:49:08",
@@ -46157,23 +46171,29 @@
     },
     {
         "attachments": [
-            ""
+            "1504.pdf"
         ],
-        "changeDate": "2025-07-22T19:15:28",
+        "changeDate": "2025-07-22T19:35:28",
+        "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-22",
         "number": "1504",
-        "processPrint": [],
+        "processPrint": [
+            "1489"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji Kultury, Dziedzictwa Narodowego i Środków Przekazu o poselskim projekcie uchwały w 90 rocznicę urodzin Jarosława Marka Rymkiewicza."
     },
     {
         "attachments": [
-            ""
+            "1505.pdf"
         ],
-        "changeDate": "2025-07-22T19:15:29",
+        "changeDate": "2025-07-22T19:43:18",
+        "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-22",
         "number": "1505",
-        "processPrint": [],
+        "processPrint": [
+            "1491"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji Kultury, Dziedzictwa Narodowego i Środków Przekazu o poselskim projekcie uchwały w sprawie upamiętnienia 45. rocznicy Lubelskiego Lipca '80."
     },
