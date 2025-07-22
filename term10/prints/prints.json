@@ -46055,12 +46055,16 @@
     },
     {
         "attachments": [
-            ""
+            "1523.pdf",
+            "1523-ustawa.docx",
+            "1523-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T11:54:35",
+        "changeDate": "2025-07-22T12:18:50",
         "documentDate": "2025-07-15",
         "number": "1523",
-        "processPrint": [],
+        "processPrint": [
+            "1523"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o ustalaniu wysokości emerytur z Funduszu Ubezpieczeń Społecznych ustalonych w czerwcu w latach 2009-2019 oraz rent rodzinnych po ubezpieczonych, którym ustalono emerytury w czerwcu w latach 2009-2019."
     },
@@ -46109,46 +46113,83 @@
     },
     {
         "attachments": [
-            ""
+            "1527.pdf",
+            "1527-ustawa i uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T12:03:14",
+        "changeDate": "2025-07-22T12:24:50",
         "documentDate": "2025-07-08",
         "number": "1527",
-        "processPrint": [],
+        "processPrint": [
+            "1527"
+        ],
         "term": 10,
         "title": "Poselski projekt ustawy o Rzeczniku Praw Rolników."
     },
     {
         "attachments": [
-            ""
+            "1528.pdf",
+            "1528-ustawa.docx",
+            "1528-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T12:09:42",
+        "changeDate": "2025-07-22T12:33:15",
         "documentDate": "2025-06-26",
         "number": "1528",
-        "processPrint": [],
+        "processPrint": [
+            "1528"
+        ],
         "term": 10,
         "title": "Poselski projekt ustawy o Funduszu Transformacji Regionu Bełchatowskiego Spółce Akcyjnej."
     },
     {
         "attachments": [
-            ""
+            "1529.pdf",
+            "1529-ustawa i uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T12:09:42",
+        "changeDate": "2025-07-22T12:38:13",
         "documentDate": "2025-07-04",
         "number": "1529",
-        "processPrint": [],
+        "processPrint": [
+            "1529"
+        ],
         "term": 10,
         "title": "Poselski projekt ustawy o zmianie ustawy - Kodeks wyborczy."
     },
     {
         "attachments": [
-            ""
+            "1530.pdf",
+            "1530-uchwała.docx"
         ],
-        "changeDate": "2025-07-22T12:09:42",
+        "changeDate": "2025-07-22T12:44:20",
         "documentDate": "2025-07-09",
         "number": "1530",
-        "processPrint": [],
+        "processPrint": [
+            "1530"
+        ],
         "term": 10,
         "title": "Komisyjny projekt uchwały w sprawie zmiany regulaminu Sejmu Rzeczypospolitej Polskiej."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-07-22T12:24:56",
+        "documentDate": "2025-07-09",
+        "number": "1531",
+        "processPrint": [],
+        "term": 10,
+        "title": "Informacja o działalności Komitetu Stabilności Finansowej w zakresie nadzoru makroostrożnościowego w 2024 r."
+    },
+    {
+        "attachments": [
+            "1532.pdf"
+        ],
+        "changeDate": "2025-07-22T12:46:01",
+        "documentDate": "2025-07-22",
+        "number": "1532",
+        "processPrint": [
+            "1532"
+        ],
+        "term": 10,
+        "title": "Przedstawiony przez Prezydium Sejmu projekt uchwały w sprawie potępienia wypowiedzi podważających prawdę o tragedii Holokaustu."
     }
 ]
