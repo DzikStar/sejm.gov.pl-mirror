@@ -46044,7 +46044,8 @@
             "1522-ustawa.docx",
             "1522-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T12:02:29",
+        "changeDate": "2025-07-22T12:55:04",
+        "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-16",
         "number": "1522",
         "processPrint": [
@@ -46059,7 +46060,8 @@
             "1523-ustawa.docx",
             "1523-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T12:18:50",
+        "changeDate": "2025-07-22T12:55:04",
+        "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-15",
         "number": "1523",
         "processPrint": [
@@ -46074,7 +46076,8 @@
             "1524-ustawa.docx",
             "1524-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T12:03:10",
+        "changeDate": "2025-07-22T12:55:04",
+        "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-15",
         "number": "1524",
         "processPrint": [
@@ -46088,7 +46091,8 @@
             "1525.pdf",
             "1525-ustawa i uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T12:10:07",
+        "changeDate": "2025-07-22T12:55:04",
+        "deliveryDate": "2025-07-22",
         "documentDate": "2025-06-26",
         "number": "1525",
         "processPrint": [
@@ -46102,7 +46106,8 @@
             "1526.pdf",
             "1526-ustawa i uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T12:15:43",
+        "changeDate": "2025-07-22T12:58:31",
+        "deliveryDate": "2025-07-22",
         "documentDate": "2025-06-27",
         "number": "1526",
         "processPrint": [
@@ -46116,7 +46121,8 @@
             "1527.pdf",
             "1527-ustawa i uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T12:24:50",
+        "changeDate": "2025-07-22T12:55:04",
+        "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-08",
         "number": "1527",
         "processPrint": [
@@ -46131,7 +46137,8 @@
             "1528-ustawa.docx",
             "1528-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T12:33:15",
+        "changeDate": "2025-07-22T12:55:04",
+        "deliveryDate": "2025-07-22",
         "documentDate": "2025-06-26",
         "number": "1528",
         "processPrint": [
@@ -46145,7 +46152,8 @@
             "1529.pdf",
             "1529-ustawa i uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T12:38:13",
+        "changeDate": "2025-07-22T12:55:04",
+        "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-04",
         "number": "1529",
         "processPrint": [
@@ -46159,23 +46167,27 @@
             "1530.pdf",
             "1530-uchwała.docx"
         ],
-        "changeDate": "2025-07-22T12:44:20",
+        "changeDate": "2025-07-22T12:55:04",
+        "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-09",
         "number": "1530",
         "processPrint": [
             "1530"
         ],
         "term": 10,
-        "title": "Komisyjny projekt uchwały w sprawie zmiany regulaminu Sejmu Rzeczypospolitej Polskiej."
+        "title": "Komisyjny projekt uchwały w sprawie zmiany Regulaminu Sejmu Rzeczypospolitej Polskiej."
     },
     {
         "attachments": [
-            ""
+            "1531.pdf"
         ],
-        "changeDate": "2025-07-22T12:24:56",
+        "changeDate": "2025-07-22T12:55:04",
+        "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-09",
         "number": "1531",
-        "processPrint": [],
+        "processPrint": [
+            "1531"
+        ],
         "term": 10,
         "title": "Informacja o działalności Komitetu Stabilności Finansowej w zakresie nadzoru makroostrożnościowego w 2024 r."
     },
@@ -46183,7 +46195,8 @@
         "attachments": [
             "1532.pdf"
         ],
-        "changeDate": "2025-07-22T12:46:01",
+        "changeDate": "2025-07-22T12:55:04",
+        "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-22",
         "number": "1532",
         "processPrint": [
