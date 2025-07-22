@@ -43594,7 +43594,7 @@
                 "attachments": [
                     "1404-005.pdf"
                 ],
-                "changeDate": "2025-07-22T13:18:49",
+                "changeDate": "2025-07-22T14:28:19",
                 "deliveryDate": "2025-07-22",
                 "documentDate": "2025-07-22",
                 "number": "1404-005",
@@ -44688,7 +44688,7 @@
                 "attachments": [
                     "1443-001.pdf"
                 ],
-                "changeDate": "2025-07-22T13:18:49",
+                "changeDate": "2025-07-22T14:27:57",
                 "deliveryDate": "2025-07-22",
                 "documentDate": "2025-07-21",
                 "number": "1443-001",
@@ -44700,6 +44700,23 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1443 - opinia SN (nie zgłoszono uwag)"
+            },
+            {
+                "attachments": [
+                    "1443-002.pdf"
+                ],
+                "changeDate": "2025-07-22T14:22:34",
+                "deliveryDate": "2025-07-22",
+                "documentDate": "2025-07-21",
+                "number": "1443-002",
+                "numberAssociated": [
+                    "1443"
+                ],
+                "processPrint": [
+                    "1443"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1443 - opinia Konfederacji Lewiatan"
             }
         ],
         "attachments": [
@@ -46174,6 +46191,42 @@
         "title": "Poselski projekt ustawy o zmianie ustawy - Prawo geodezyjne i kartograficzne."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1526-001.pdf"
+                ],
+                "changeDate": "2025-07-22T14:22:33",
+                "deliveryDate": "2025-07-22",
+                "documentDate": "2025-07-11",
+                "number": "1526-001",
+                "numberAssociated": [
+                    "1526"
+                ],
+                "processPrint": [
+                    "1526"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1526 - opinia ZPP"
+            },
+            {
+                "attachments": [
+                    "1526-002.pdf"
+                ],
+                "changeDate": "2025-07-22T14:22:34",
+                "deliveryDate": "2025-07-22",
+                "documentDate": "2025-07-14",
+                "number": "1526-002",
+                "numberAssociated": [
+                    "1526"
+                ],
+                "processPrint": [
+                    "1526"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1526 - opinia UMP"
+            }
+        ],
         "attachments": [
             "1526.pdf",
             "1526-ustawa i uzasadnienie.docx"
@@ -46189,6 +46242,25 @@
         "title": "Poselski projekt ustawy o zmianie ustawy - Prawo oświatowe."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1527-001.pdf"
+                ],
+                "changeDate": "2025-07-22T14:22:34",
+                "deliveryDate": "2025-07-22",
+                "documentDate": "2025-07-21",
+                "number": "1527-001",
+                "numberAssociated": [
+                    "1527"
+                ],
+                "processPrint": [
+                    "1527"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1527 - opinia PUODO"
+            }
+        ],
         "attachments": [
             "1527.pdf",
             "1527-ustawa i uzasadnienie.docx"
@@ -46204,6 +46276,42 @@
         "title": "Poselski projekt ustawy o Rzeczniku Praw Rolników."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1528-001.pdf"
+                ],
+                "changeDate": "2025-07-22T14:22:33",
+                "deliveryDate": "2025-07-22",
+                "documentDate": "2025-07-14",
+                "number": "1528-001",
+                "numberAssociated": [
+                    "1528"
+                ],
+                "processPrint": [
+                    "1528"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1528 - opinia GIP"
+            },
+            {
+                "attachments": [
+                    "1528-002.pdf"
+                ],
+                "changeDate": "2025-07-22T14:22:34",
+                "deliveryDate": "2025-07-22",
+                "documentDate": "2025-07-16",
+                "number": "1528-002",
+                "numberAssociated": [
+                    "1528"
+                ],
+                "processPrint": [
+                    "1528"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1528 - opinia ZWRP"
+            }
+        ],
         "attachments": [
             "1528.pdf",
             "1528-ustawa.docx",
@@ -46220,6 +46328,25 @@
         "title": "Poselski projekt ustawy o Funduszu Transformacji Regionu Bełchatowskiego Spółce Akcyjnej."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1529-001.pdf"
+                ],
+                "changeDate": "2025-07-22T14:22:34",
+                "deliveryDate": "2025-07-22",
+                "documentDate": "2025-07-17",
+                "number": "1529-001",
+                "numberAssociated": [
+                    "1529"
+                ],
+                "processPrint": [
+                    "1529"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1529 - opinia Gminy Tarłów"
+            }
+        ],
         "attachments": [
             "1529.pdf",
             "1529-ustawa i uzasadnienie.docx"
