@@ -40621,6 +40621,24 @@
         "title": "Rządowy projekt ustawy o zmianie ustawy - Kodeks postępowania cywilnego, ustawy - Kodeks cywilny oraz niektórych innych ustaw."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1305-001.pdf"
+                ],
+                "changeDate": "2025-07-22T13:19:01",
+                "documentDate": "2025-07-21",
+                "number": "1305-001",
+                "numberAssociated": [
+                    "1305"
+                ],
+                "processPrint": [
+                    "1305"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1305 - opinia SN (nie zgłoszono uwag)"
+            }
+        ],
         "attachments": [
             "1305.pdf",
             "1305-ustawa.docx",
@@ -40725,6 +40743,23 @@
     },
     {
         "additionalPrints": [
+            {
+                "attachments": [
+                    "1307-A-002.pdf"
+                ],
+                "changeDate": "2025-07-22T13:18:49",
+                "deliveryDate": "2025-07-22",
+                "documentDate": "2025-07-21",
+                "number": "1307-A -002",
+                "numberAssociated": [
+                    "1307-A"
+                ],
+                "processPrint": [
+                    "1307"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1307-A - opinia SN (nie zgłoszono uwag)"
+            },
             {
                 "attachments": [
                     "1307-A-001.pdf"
@@ -43553,6 +43588,23 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1404 - opinia OPZZ"
+            },
+            {
+                "attachments": [
+                    "1404-005.pdf"
+                ],
+                "changeDate": "2025-07-22T13:18:49",
+                "deliveryDate": "2025-07-22",
+                "documentDate": "2025-07-22",
+                "number": "1404-005",
+                "numberAssociated": [
+                    "1404"
+                ],
+                "processPrint": [
+                    "1404"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1404 - ocena skutków regulacji"
             }
         ],
         "attachments": [
@@ -44630,6 +44682,25 @@
         "title": "Rządowy projekt ustawy o zmianie ustawy - Kodeks postępowania cywilnego."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1443-001.pdf"
+                ],
+                "changeDate": "2025-07-22T13:18:49",
+                "deliveryDate": "2025-07-22",
+                "documentDate": "2025-07-21",
+                "number": "1443-001",
+                "numberAssociated": [
+                    "1443"
+                ],
+                "processPrint": [
+                    "1443"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1443 - opinia SN (nie zgłoszono uwag)"
+            }
+        ],
         "attachments": [
             "1443.pdf",
             "1443-ustawa.docx",
@@ -46044,7 +46115,7 @@
             "1522-ustawa.docx",
             "1522-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T12:55:04",
+        "changeDate": "2025-07-22T13:21:33",
         "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-16",
         "number": "1522",
@@ -46060,7 +46131,7 @@
             "1523-ustawa.docx",
             "1523-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T12:55:04",
+        "changeDate": "2025-07-22T13:23:44",
         "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-15",
         "number": "1523",
@@ -46076,7 +46147,7 @@
             "1524-ustawa.docx",
             "1524-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T12:55:04",
+        "changeDate": "2025-07-22T13:18:33",
         "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-15",
         "number": "1524",
@@ -46091,7 +46162,7 @@
             "1525.pdf",
             "1525-ustawa i uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T12:55:04",
+        "changeDate": "2025-07-22T13:23:21",
         "deliveryDate": "2025-07-22",
         "documentDate": "2025-06-26",
         "number": "1525",
@@ -46121,7 +46192,7 @@
             "1527.pdf",
             "1527-ustawa i uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T12:55:04",
+        "changeDate": "2025-07-22T13:24:05",
         "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-08",
         "number": "1527",
@@ -46137,7 +46208,7 @@
             "1528-ustawa.docx",
             "1528-uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T12:55:04",
+        "changeDate": "2025-07-22T13:24:33",
         "deliveryDate": "2025-07-22",
         "documentDate": "2025-06-26",
         "number": "1528",
@@ -46152,7 +46223,7 @@
             "1529.pdf",
             "1529-ustawa i uzasadnienie.docx"
         ],
-        "changeDate": "2025-07-22T12:55:04",
+        "changeDate": "2025-07-22T13:25:05",
         "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-04",
         "number": "1529",
@@ -46167,7 +46238,7 @@
             "1530.pdf",
             "1530-uchwała.docx"
         ],
-        "changeDate": "2025-07-22T12:55:04",
+        "changeDate": "2025-07-22T13:25:21",
         "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-09",
         "number": "1530",
@@ -46181,7 +46252,7 @@
         "attachments": [
             "1531.pdf"
         ],
-        "changeDate": "2025-07-22T12:55:04",
+        "changeDate": "2025-07-22T13:28:47",
         "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-09",
         "number": "1531",
@@ -46195,7 +46266,7 @@
         "attachments": [
             "1532.pdf"
         ],
-        "changeDate": "2025-07-22T12:55:04",
+        "changeDate": "2025-07-22T13:29:12",
         "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-22",
         "number": "1532",
