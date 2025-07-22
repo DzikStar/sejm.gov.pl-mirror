@@ -40626,7 +40626,7 @@
                 "attachments": [
                     "1305-001.pdf"
                 ],
-                "changeDate": "2025-07-22T13:44:31",
+                "changeDate": "2025-07-22T14:38:39",
                 "deliveryDate": "2025-07-22",
                 "documentDate": "2025-07-21",
                 "number": "1305-001",
@@ -40748,7 +40748,7 @@
                 "attachments": [
                     "1307-A-002.pdf"
                 ],
-                "changeDate": "2025-07-22T13:18:49",
+                "changeDate": "2025-07-22T14:37:33",
                 "deliveryDate": "2025-07-22",
                 "documentDate": "2025-07-21",
                 "number": "1307-A -002",
@@ -44705,7 +44705,7 @@
                 "attachments": [
                     "1443-002.pdf"
                 ],
-                "changeDate": "2025-07-22T14:22:34",
+                "changeDate": "2025-07-22T14:39:55",
                 "deliveryDate": "2025-07-22",
                 "documentDate": "2025-07-21",
                 "number": "1443-002",
@@ -46085,6 +46085,21 @@
     },
     {
         "attachments": [
+            "1507.pdf",
+            "V3_1417-10.NK.docx"
+        ],
+        "changeDate": "2025-07-22T15:22:25",
+        "deliveryDate": "2025-07-22",
+        "documentDate": "2025-07-22",
+        "number": "1507",
+        "processPrint": [
+            "1429"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji do Spraw Deregulacji oraz Komisji Zdrowia o rządowym projekcie ustawy o zmianie ustawy o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych."
+    },
+    {
+        "attachments": [
             "1509.pdf"
         ],
         "changeDate": "2025-07-21T17:21:30",
@@ -46126,6 +46141,20 @@
         ],
         "term": 10,
         "title": "Sprawozdanie Komisji do Spraw Deregulacji oraz Komisji Edukacji i Nauki o rządowym projekcie ustawy o zmianie ustawy - Karta Nauczyciela."
+    },
+    {
+        "attachments": [
+            "1512.pdf"
+        ],
+        "changeDate": "2025-07-22T15:18:51",
+        "deliveryDate": "2025-07-22",
+        "documentDate": "2025-07-22",
+        "number": "1512",
+        "processPrint": [
+            "1263"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Sprawiedliwości i Praw Człowieka o uchwale Senatu w sprawie ustawy o zmianie ustawy - Prawo restrukturyzacyjne, ustawy - Prawo upadłościowe oraz ustawy o Krajowym Rejestrze Zadłużonych."
     },
     {
         "attachments": [
@@ -46196,7 +46225,7 @@
                 "attachments": [
                     "1526-001.pdf"
                 ],
-                "changeDate": "2025-07-22T14:22:33",
+                "changeDate": "2025-07-22T14:39:44",
                 "deliveryDate": "2025-07-22",
                 "documentDate": "2025-07-11",
                 "number": "1526-001",
@@ -46213,7 +46242,7 @@
                 "attachments": [
                     "1526-002.pdf"
                 ],
-                "changeDate": "2025-07-22T14:22:34",
+                "changeDate": "2025-07-22T14:39:31",
                 "deliveryDate": "2025-07-22",
                 "documentDate": "2025-07-14",
                 "number": "1526-002",
@@ -46247,7 +46276,7 @@
                 "attachments": [
                     "1527-001.pdf"
                 ],
-                "changeDate": "2025-07-22T14:22:34",
+                "changeDate": "2025-07-22T14:39:20",
                 "deliveryDate": "2025-07-22",
                 "documentDate": "2025-07-21",
                 "number": "1527-001",
@@ -46281,7 +46310,7 @@
                 "attachments": [
                     "1528-001.pdf"
                 ],
-                "changeDate": "2025-07-22T14:22:33",
+                "changeDate": "2025-07-22T14:39:04",
                 "deliveryDate": "2025-07-22",
                 "documentDate": "2025-07-14",
                 "number": "1528-001",
@@ -46298,7 +46327,7 @@
                 "attachments": [
                     "1528-002.pdf"
                 ],
-                "changeDate": "2025-07-22T14:22:34",
+                "changeDate": "2025-07-22T14:38:28",
                 "deliveryDate": "2025-07-22",
                 "documentDate": "2025-07-16",
                 "number": "1528-002",
@@ -46333,7 +46362,7 @@
                 "attachments": [
                     "1529-001.pdf"
                 ],
-                "changeDate": "2025-07-22T14:22:34",
+                "changeDate": "2025-07-22T14:38:16",
                 "deliveryDate": "2025-07-22",
                 "documentDate": "2025-07-17",
                 "number": "1529-001",
