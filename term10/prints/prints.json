@@ -34175,7 +34175,7 @@
                 "attachments": [
                     "1079-s.pdf"
                 ],
-                "changeDate": "2025-07-22T18:50:57",
+                "changeDate": "2025-07-22T18:51:40",
                 "deliveryDate": "2025-07-22",
                 "documentDate": "2025-07-22",
                 "number": "B5D8C9563AA2406AC1258CCF005C3D34",
@@ -46157,10 +46157,32 @@
     },
     {
         "attachments": [
+            ""
+        ],
+        "changeDate": "2025-07-22T19:15:28",
+        "documentDate": "2025-07-22",
+        "number": "1504",
+        "processPrint": [],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Kultury, Dziedzictwa Narodowego i Środków Przekazu o poselskim projekcie uchwały w 90 rocznicę urodzin Jarosława Marka Rymkiewicza."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-07-22T19:15:29",
+        "documentDate": "2025-07-22",
+        "number": "1505",
+        "processPrint": [],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Kultury, Dziedzictwa Narodowego i Środków Przekazu o poselskim projekcie uchwały w sprawie upamiętnienia 45. rocznicy Lubelskiego Lipca '80."
+    },
+    {
+        "attachments": [
             "1506.pdf",
             "1506.docx"
         ],
-        "changeDate": "2025-07-22T18:43:07",
+        "changeDate": "2025-07-22T18:51:25",
         "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-22",
         "number": "1506",
@@ -46522,9 +46544,40 @@
     },
     {
         "attachments": [
-            "1539.pdf"
+            "1533.pdf",
+            "1533.docx"
         ],
-        "changeDate": "2025-07-22T18:43:07",
+        "changeDate": "2025-07-22T19:15:15",
+        "deliveryDate": "2025-07-22",
+        "documentDate": "2025-07-22",
+        "number": "1533",
+        "processPrint": [
+            "829"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Edukacji i Nauki o uchwale Senatu w sprawie ustawy o Instytucie imienia Wincentego Witosa."
+    },
+    {
+        "attachments": [
+            "1534.docx",
+            "1534.pdf"
+        ],
+        "changeDate": "2025-07-22T19:14:58",
+        "deliveryDate": "2025-07-22",
+        "documentDate": "2025-07-22",
+        "number": "1534",
+        "processPrint": [
+            "1284"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Edukacji i Nauki o uchwale Senatu w sprawie ustawy o likwidacji Akademii Kopernikańskiej i Szkoły Głównej Mikołaja Kopernika."
+    },
+    {
+        "attachments": [
+            "1539.pdf",
+            "1539-uchwała.docx"
+        ],
+        "changeDate": "2025-07-22T19:03:28",
         "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-22",
         "number": "1539",
