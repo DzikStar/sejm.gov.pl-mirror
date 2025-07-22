@@ -34173,6 +34173,21 @@
         "additionalPrints": [
             {
                 "attachments": [
+                    "1079-s.pdf"
+                ],
+                "changeDate": "2025-07-22T18:50:57",
+                "deliveryDate": "2025-07-22",
+                "documentDate": "2025-07-22",
+                "number": "B5D8C9563AA2406AC1258CCF005C3D34",
+                "numberAssociated": [
+                    "1079"
+                ],
+                "processPrint": [],
+                "term": 10,
+                "title": "Stanowisko rządu do druku nr 1079."
+            },
+            {
+                "attachments": [
                     "1079-001.pdf"
                 ],
                 "changeDate": "2025-03-18T08:57:20",
@@ -46142,12 +46157,16 @@
     },
     {
         "attachments": [
-            ""
+            "1506.pdf",
+            "1506.docx"
         ],
-        "changeDate": "2025-07-22T18:22:20",
+        "changeDate": "2025-07-22T18:43:07",
+        "deliveryDate": "2025-07-22",
         "documentDate": "2025-07-22",
         "number": "1506",
-        "processPrint": [],
+        "processPrint": [
+            "1078"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji Infrastruktury oraz Komisji Samorządu Terytorialnego i Polityki Regionalnej o uchwale Senatu w sprawie ustawy o zmianie ustawy o społecznych formach rozwoju mieszkalnictwa oraz niektórych innych ustaw."
     },
@@ -46500,5 +46519,19 @@
         ],
         "term": 10,
         "title": "Przedstawiony przez Prezydium Sejmu projekt uchwały w sprawie potępienia wypowiedzi podważających prawdę o tragedii Holokaustu."
+    },
+    {
+        "attachments": [
+            "1539.pdf"
+        ],
+        "changeDate": "2025-07-22T18:43:07",
+        "deliveryDate": "2025-07-22",
+        "documentDate": "2025-07-22",
+        "number": "1539",
+        "processPrint": [
+            "1539"
+        ],
+        "term": 10,
+        "title": "Poselski projekt uchwały w sprawie potępienia negowania zbrodni nazistowskiego ludobójstwa podczas II wojny światowej."
     }
 ]
