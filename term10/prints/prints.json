@@ -31915,14 +31915,16 @@
                 "attachments": [
                     "996-s.pdf"
                 ],
-                "changeDate": "2025-07-22T19:50:41",
+                "changeDate": "2025-07-23T14:10:06",
                 "deliveryDate": "2025-07-22",
                 "documentDate": "2025-07-22",
                 "number": "B0023994DA81F131C1258CCF0060C286",
                 "numberAssociated": [
                     "996"
                 ],
-                "processPrint": [],
+                "processPrint": [
+                    "996"
+                ],
                 "term": 10,
                 "title": "Stanowisko Rządu do druku nr 996."
             },
@@ -34190,14 +34192,16 @@
                 "attachments": [
                     "1079-s.pdf"
                 ],
-                "changeDate": "2025-07-22T18:51:40",
+                "changeDate": "2025-07-23T14:10:28",
                 "deliveryDate": "2025-07-22",
                 "documentDate": "2025-07-22",
                 "number": "B5D8C9563AA2406AC1258CCF005C3D34",
                 "numberAssociated": [
                     "1079"
                 ],
-                "processPrint": [],
+                "processPrint": [
+                    "1079"
+                ],
                 "term": 10,
                 "title": "Stanowisko rządu do druku nr 1079."
             },
@@ -46692,6 +46696,20 @@
         ],
         "term": 10,
         "title": "Poselski projekt uchwały w sprawie potępienia negowania zbrodni nazistowskiego ludobójstwa podczas II wojny światowej."
+    },
+    {
+        "attachments": [
+            "1540.pdf"
+        ],
+        "changeDate": "2025-07-23T14:22:40",
+        "deliveryDate": "2025-07-23",
+        "documentDate": "2025-07-23",
+        "number": "1540",
+        "processPrint": [
+            "1532"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Kultury, Dziedzictwa Narodowego i Środków Przekazu o przedstawionym przez Prezydium Sejmu projekcie uchwały w sprawie potępienia wypowiedzi podważających prawdę o tragedii Holokaustu, o poselskim projekcie uchwały w sprawie potępienia negowania zbrodni nazistowskiego ludobójstwa podczas II wojny światowej."
     },
     {
         "attachments": [
