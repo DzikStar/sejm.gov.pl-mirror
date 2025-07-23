@@ -43861,10 +43861,13 @@
             "1413.pdf",
             "1413.docx"
         ],
-        "changeDate": "2025-07-23T19:11:24",
+        "changeDate": "2025-07-23T19:33:46",
+        "deliveryDate": "2025-07-23",
         "documentDate": "2025-07-22",
         "number": "1413",
-        "processPrint": [],
+        "processPrint": [
+            "205"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji Samorządu Terytorialnego i Polityki Regionalnej o komisyjnym projekcie ustawy o zmianie ustawy o samorządowych kolegiach odwoławczych."
     },
@@ -46288,12 +46291,16 @@
     },
     {
         "attachments": [
-            ""
+            "1508.pdf",
+            "V2_124-20.NK.docx"
         ],
-        "changeDate": "2025-07-23T19:08:04",
+        "changeDate": "2025-07-23T19:34:08",
+        "deliveryDate": "2025-07-23",
         "documentDate": "2025-07-22",
         "number": "1508",
-        "processPrint": [],
+        "processPrint": [
+            "1378"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji do Spraw Deregulacji oraz Komisji Zdrowia o rządowym projekcie ustawy o zmianie ustawy - Prawo farmaceutyczne."
     },
@@ -46359,7 +46366,8 @@
         "attachments": [
             "1514.pdf"
         ],
-        "changeDate": "2025-07-23T19:07:24",
+        "changeDate": "2025-07-23T19:34:27",
+        "deliveryDate": "2025-07-23",
         "documentDate": "2025-07-22",
         "number": "1514",
         "processPrint": [
@@ -46372,7 +46380,8 @@
         "attachments": [
             "1515.pdf"
         ],
-        "changeDate": "2025-07-23T19:06:51",
+        "changeDate": "2025-07-23T19:34:37",
+        "deliveryDate": "2025-07-23",
         "documentDate": "2025-07-22",
         "number": "1515",
         "processPrint": [
@@ -46386,10 +46395,13 @@
             "1516.pdf",
             "1516.docx"
         ],
-        "changeDate": "2025-07-23T19:10:00",
+        "changeDate": "2025-07-23T19:33:58",
+        "deliveryDate": "2025-07-23",
         "documentDate": "2025-07-22",
         "number": "1516",
-        "processPrint": [],
+        "processPrint": [
+            "1486"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji Finansów Publicznych oraz Komisji Spraw Zagranicznych o rządowym projekcie ustawy o ratyfikacji Umowy o Międzynarodowym Funduszu Walutowym, sporządzonej w Bretton Woods dnia 22 lipca 1944 r., w wersji tej Umowy nadanej Drugą Poprawką przyjętą Rezolucją nr 31-4 Rady Gubernatorów Międzynarodowego Funduszu Walutowego z dnia 30 kwietnia 1976 r., wraz z Trzecią Poprawką przyjętą Rezolucją nr 45-3 Rady Gubernatorów Międzynarodowego Funduszu Walutowego z dnia 28 czerwca 1990 r. oraz z Czwartą Poprawką przyjętą Rezolucją nr 52-4 Rady Gubernatorów Międzynarodowego Funduszu Walutowego z dnia 23 września 1997 r."
     },
@@ -46398,7 +46410,8 @@
             "1517.pdf",
             "1517.docx"
         ],
-        "changeDate": "2025-07-23T19:09:19",
+        "changeDate": "2025-07-23T19:34:17",
+        "deliveryDate": "2025-07-23",
         "documentDate": "2025-07-22",
         "number": "1517",
         "processPrint": [
@@ -46773,12 +46786,29 @@
     },
     {
         "attachments": [
+            "1535.pdf"
+        ],
+        "changeDate": "2025-07-23T19:33:15",
+        "deliveryDate": "2025-07-23",
+        "documentDate": "2025-07-22",
+        "number": "1535",
+        "processPrint": [
+            "599"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Finansów Publicznych o poselskim projekcie ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych."
+    },
+    {
+        "attachments": [
             "1536.pdf"
         ],
-        "changeDate": "2025-07-23T19:08:43",
+        "changeDate": "2025-07-23T19:33:25",
+        "deliveryDate": "2025-07-23",
         "documentDate": "2025-07-22",
         "number": "1536",
-        "processPrint": [],
+        "processPrint": [
+            "659"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji Finansów Publicznych o poselskim projekcie ustawy o zmianie ustawy o podatku akcyzowym."
     },
@@ -46786,10 +46816,13 @@
         "attachments": [
             "1537.pdf"
         ],
-        "changeDate": "2025-07-23T19:09:04",
+        "changeDate": "2025-07-23T19:33:37",
+        "deliveryDate": "2025-07-23",
         "documentDate": "2025-07-22",
         "number": "1537",
-        "processPrint": [],
+        "processPrint": [
+            "774"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji Finansów Publicznych o poselskim projekcie ustawy o zmianie ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa."
     },
