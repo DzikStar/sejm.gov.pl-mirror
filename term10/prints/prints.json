@@ -46684,12 +46684,16 @@
     },
     {
         "attachments": [
-            ""
+            "1538.pdf",
+            "V2_481-86.NK.docx"
         ],
-        "changeDate": "2025-07-23T16:45:11",
+        "changeDate": "2025-07-23T16:55:04",
+        "deliveryDate": "2025-07-23",
         "documentDate": "2025-07-23",
         "number": "1538",
-        "processPrint": [],
+        "processPrint": [
+            "1483"
+        ],
         "term": 10,
         "title": "Sprawozdanie Komisji Zdrowia o rządowym projekcie ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o działalności leczniczej."
     },
