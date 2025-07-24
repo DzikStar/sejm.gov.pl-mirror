@@ -45884,7 +45884,8 @@
             "1475-A.pdf",
             "1475-A.docx"
         ],
-        "changeDate": "2025-07-24T15:53:48",
+        "changeDate": "2025-07-24T16:03:39",
+        "deliveryDate": "2025-07-24",
         "documentDate": "2025-07-24",
         "number": "1475-A",
         "processPrint": [
@@ -46149,6 +46150,21 @@
     },
     {
         "attachments": [
+            "1490-A.pdf",
+            "1490-A.docx"
+        ],
+        "changeDate": "2025-07-24T16:04:02",
+        "deliveryDate": "2025-07-24",
+        "documentDate": "2025-07-24",
+        "number": "1490-A",
+        "processPrint": [
+            "1295"
+        ],
+        "term": 10,
+        "title": "Dodatkowe sprawozdanie Komisji Finansów Publicznych o komisyjnym projekcie uchwały Sejmu w sprawie sprawozdania z wykonania budżetu państwa za okres od 1 stycznia do 31 grudnia 2024 r. oraz wniosku w przedmiocie absolutorium dla Rady Ministrów za ten okres."
+    },
+    {
+        "attachments": [
             "1491.pdf",
             "1491-uchwała.docx"
         ],
@@ -46317,7 +46333,7 @@
         "attachments": [
             "1502.pdf"
         ],
-        "changeDate": "2025-07-24T14:31:46",
+        "changeDate": "2025-07-24T16:04:40",
         "deliveryDate": "2025-07-24",
         "documentDate": "2025-07-24",
         "number": "1502",
