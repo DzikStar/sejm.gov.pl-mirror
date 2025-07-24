@@ -45911,12 +45911,15 @@
     },
     {
         "attachments": [
-            ""
+            "1476-A.pdf"
         ],
-        "changeDate": "2025-07-24T16:46:56",
+        "changeDate": "2025-07-24T16:56:02",
+        "deliveryDate": "2025-07-24",
         "documentDate": "2025-07-24",
         "number": "1476-A",
-        "processPrint": [],
+        "processPrint": [
+            "1472"
+        ],
         "term": 10,
         "title": "Dodatkowe sprawozdanie Komisji Edukacji i Nauki o rządowym projekcie ustawy o zmianie ustawy - Karta Nauczyciela oraz niektórych innych ustaw."
     },
@@ -46190,6 +46193,25 @@
         "title": "Poselski projekt uchwały w sprawie upamiętnienia 45. rocznicy Lubelskiego Lipca '80."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1492-001.pdf"
+                ],
+                "changeDate": "2025-07-24T16:55:47",
+                "deliveryDate": "2025-07-24",
+                "documentDate": "2025-07-23",
+                "number": "1492-001",
+                "numberAssociated": [
+                    "1492"
+                ],
+                "processPrint": [
+                    "1492"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1492 - opinia Fundacji \"Ukraiński Dom\""
+            }
+        ],
         "attachments": [
             "1492.pdf",
             "1492-ustawa.docx",
@@ -46576,7 +46598,8 @@
         "attachments": [
             "1518-A.pdf"
         ],
-        "changeDate": "2025-07-24T16:38:16",
+        "changeDate": "2025-07-24T16:56:14",
+        "deliveryDate": "2025-07-24",
         "documentDate": "2025-07-24",
         "number": "1518-A",
         "processPrint": [
