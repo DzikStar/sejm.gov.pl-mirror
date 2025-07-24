@@ -45125,6 +45125,25 @@
         "title": "Kandydat na stanowisko sędziego Trybunału Konstytucyjnego - Pan Artur Kotowski."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1456-001.pdf"
+                ],
+                "changeDate": "2025-07-24T11:17:09",
+                "deliveryDate": "2025-07-23",
+                "documentDate": "2025-06-23",
+                "number": "1456-001",
+                "numberAssociated": [
+                    "1456"
+                ],
+                "processPrint": [
+                    "1456"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1456 - deklarowane skutki regulacji"
+            }
+        ],
         "attachments": [
             "1456.pdf",
             "1456-ustawa i uzasadnienie.docx"
