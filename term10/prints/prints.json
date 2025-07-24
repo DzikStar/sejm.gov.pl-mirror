@@ -43975,6 +43975,20 @@
     },
     {
         "attachments": [
+            "1419-A.pdf"
+        ],
+        "changeDate": "2025-07-24T14:30:57",
+        "deliveryDate": "2025-07-24",
+        "documentDate": "2025-07-24",
+        "number": "1419-A",
+        "processPrint": [
+            "1376"
+        ],
+        "term": 10,
+        "title": "Dodatkowe sprawozdanie Komisji do Spraw Deregulacji o rządowym projekcie ustawy o zmianie niektórych ustaw w celu uproszczenia procedur administracyjnych oraz wsparcia przedsiębiorczości."
+    },
+    {
+        "attachments": [
             "1421.pdf",
             "V4_1775-2.NK.docx"
         ],
@@ -46287,6 +46301,20 @@
     },
     {
         "attachments": [
+            "1502.pdf"
+        ],
+        "changeDate": "2025-07-24T14:31:46",
+        "deliveryDate": "2025-07-24",
+        "documentDate": "2025-07-24",
+        "number": "1502",
+        "processPrint": [
+            "1246"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Gospodarki Morskiej i Żeglugi Śródlądowej oraz Komisji Polityki Społecznej i Rodziny o uchwale Senatu w sprawie ustawy  o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
             "1503.pdf",
             "V3_1565-2.NK.docx"
         ],
@@ -47008,5 +47036,19 @@
         ],
         "term": 10,
         "title": "Sprawozdanie Komisji Administracji i Spraw Wewnętrznych oraz Komisji Obrony Narodowej o uchwale Senatu w sprawie ustawy o szczególnych zasadach przygotowania i realizacji strategicznych inwestycji w zakresie potrzeb obronności państwa lub kluczowych inwestycji w zakresie potrzeb obronności państwa lub bezpieczeństwa publicznego oraz ustanawiania stref ochronnych terenów zamkniętych."
+    },
+    {
+        "attachments": [
+            "1554.pdf"
+        ],
+        "changeDate": "2025-07-24T14:24:09",
+        "deliveryDate": "2025-07-24",
+        "documentDate": "2025-07-24",
+        "number": "1554",
+        "processPrint": [
+            "1388"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji do Spraw Energii, Klimatu i Aktywów Państwowych o poselskim projekcie ustawy o zmianie ustawy - Prawo energetyczne oraz niektórych innych ustaw."
     }
 ]
