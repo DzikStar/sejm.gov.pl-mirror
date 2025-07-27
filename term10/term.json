@@ -1,5 +1,10 @@
 {
     "current": true,
     "from": "2023-11-13",
-    "num": 10
+    "num": 10,
+    "prints": {
+        "count": 1693,
+        "lastChanged": "2025-07-26T10:01:50",
+        "link": "/term10/prints"
+    }
 }
