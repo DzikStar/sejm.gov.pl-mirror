@@ -42544,6 +42544,21 @@
     },
     {
         "attachments": [
+            "1361.pdf",
+            "V2_70-14.NK.docx"
+        ],
+        "changeDate": "2025-07-31T15:00:08",
+        "deliveryDate": "2025-07-31",
+        "documentDate": "2025-07-30",
+        "number": "1361",
+        "processPrint": [
+            "1312"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji do Spraw Deregulacji o rządowym projekcie ustawy zmieniającej ustawę o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
             "1362.pdf",
             "V8_305-71.NK.docx"
         ],
@@ -47927,5 +47942,34 @@
         ],
         "term": 10,
         "title": "Poselski projekt uchwały w 150. rocznicę śmierci Albina Węsierskiego."
+    },
+    {
+        "attachments": [
+            "1565.pdf",
+            "V2_2007-1.NK.docx"
+        ],
+        "changeDate": "2025-07-31T14:59:57",
+        "deliveryDate": "2025-07-31",
+        "documentDate": "2025-07-30",
+        "number": "1565",
+        "processPrint": [
+            "1449"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji do Spraw Deregulacji o rządowym projekcie ustawy o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz ustawy o podatku od towarów i usług."
+    },
+    {
+        "attachments": [
+            "1566.pdf"
+        ],
+        "changeDate": "2025-07-31T15:00:19",
+        "deliveryDate": "2025-07-31",
+        "documentDate": "2025-07-30",
+        "number": "1566",
+        "processPrint": [
+            "1522"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji do Spraw Deregulacji o rządowym projekcie ustawy o zmianie ustawy o systemie ubezpieczeń społecznych."
     }
 ]
