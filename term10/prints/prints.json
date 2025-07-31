@@ -45132,6 +45132,23 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1443 - opinia ZUS (nie zgłoszono uwag)"
+            },
+            {
+                "attachments": [
+                    "1443-005.pdf"
+                ],
+                "changeDate": "2025-07-31T13:44:54",
+                "deliveryDate": "2025-07-31",
+                "documentDate": "2025-07-30",
+                "number": "1443-005",
+                "numberAssociated": [
+                    "1443"
+                ],
+                "processPrint": [
+                    "1443"
+                ],
+                "term": 10,
+                "title": "Do druku nr  1443 - opinia IZFiA"
             }
         ],
         "attachments": [
@@ -46412,6 +46429,25 @@
         "title": "Rządowy projekt ustawy o zmianie ustawy - Prawo oświatowe."
     },
     {
+        "additionalPrints": [
+            {
+                "attachments": [
+                    "1481-001.pdf"
+                ],
+                "changeDate": "2025-07-31T13:45:09",
+                "deliveryDate": "2025-07-31",
+                "documentDate": "2025-07-16",
+                "number": "1481-001",
+                "numberAssociated": [
+                    "1481"
+                ],
+                "processPrint": [
+                    "1481"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1481 - opinia ZNP"
+            }
+        ],
         "attachments": [
             "1481.pdf",
             "1481-ustawa.docx",
@@ -47145,7 +47181,8 @@
                 "attachments": [
                     "1523-001.pdf"
                 ],
-                "changeDate": "2025-07-31T13:30:51",
+                "changeDate": "2025-07-31T13:44:44",
+                "deliveryDate": "2025-07-31",
                 "documentDate": "2025-07-30",
                 "number": "1523-001",
                 "numberAssociated": [
