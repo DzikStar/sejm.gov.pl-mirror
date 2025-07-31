@@ -31964,6 +31964,23 @@
         "additionalPrints": [
             {
                 "attachments": [
+                    "997-s.pdf"
+                ],
+                "changeDate": "2025-07-31T16:05:22",
+                "deliveryDate": "2025-07-31",
+                "documentDate": "2025-07-31",
+                "number": "3D10FECA9709FEFEC1258CD8004D1770",
+                "numberAssociated": [
+                    "997"
+                ],
+                "processPrint": [
+                    "997"
+                ],
+                "term": 10,
+                "title": "Stanowisko Rządu do druku nr 997."
+            },
+            {
+                "attachments": [
                     "997-001.pdf"
                 ],
                 "changeDate": "2025-02-13T12:21:46",
