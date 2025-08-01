@@ -47991,12 +47991,15 @@
     },
     {
         "attachments": [
-            ""
+            "1575.pdf"
         ],
-        "changeDate": "2025-08-01T08:13:36",
+        "changeDate": "2025-08-01T08:41:31",
+        "deliveryDate": "2025-08-01",
         "documentDate": "2025-07-25",
         "number": "1575",
-        "processPrint": [],
+        "processPrint": [
+            "1575"
+        ],
         "term": 10,
         "title": "Kandydat na stanowisko Prezesa Najwyższej Izby Kontroli - Pan Tadeusz Dziuba."
     },
@@ -48004,13 +48007,14 @@
         "attachments": [
             "1576.pdf"
         ],
-        "changeDate": "2025-08-01T08:20:45",
+        "changeDate": "2025-08-01T08:41:31",
+        "deliveryDate": "2025-08-01",
         "documentDate": "2025-07-25",
         "number": "1576",
         "processPrint": [
             "1576"
         ],
         "term": 10,
-        "title": "Kandydat na stanowisko Prezesa Najwyższej Izby Kontroli - Pan Mariusza Haładyja."
+        "title": "Kandydat na stanowisko Prezesa Najwyższej Izby Kontroli - Pan Mariusz Haładyj."
     }
 ]
