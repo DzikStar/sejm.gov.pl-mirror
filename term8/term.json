@@ -2,5 +2,10 @@
     "current": false,
     "from": "2015-11-12",
     "num": 8,
+    "prints": {
+        "count": 4362,
+        "lastChanged": "2025-07-31T10:48:30",
+        "link": "/term8/prints"
+    },
     "to": "2019-11-11"
 }
