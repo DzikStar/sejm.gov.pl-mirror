@@ -47656,7 +47656,8 @@
                 "attachments": [
                     "1529-002.pdf"
                 ],
-                "changeDate": "2025-08-04T18:06:00",
+                "changeDate": "2025-08-04T19:02:16",
+                "deliveryDate": "2025-08-04",
                 "documentDate": "2025-07-25",
                 "number": "1529-002",
                 "numberAssociated": [
@@ -48476,7 +48477,7 @@
         "attachments": [
             "1594.pdf"
         ],
-        "changeDate": "2025-08-04T18:52:42",
+        "changeDate": "2025-08-04T19:10:00",
         "deliveryDate": "2025-08-04",
         "documentDate": "2025-08-04",
         "number": "1594",
@@ -48524,7 +48525,8 @@
             "1604-ustawa.docx",
             "1604-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T18:06:01",
+        "changeDate": "2025-08-04T19:02:16",
+        "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-30",
         "number": "1604",
         "processPrint": [
@@ -48539,7 +48541,8 @@
             "1605-ustawa.docx",
             "1605-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T18:06:02",
+        "changeDate": "2025-08-04T19:02:16",
+        "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-30",
         "number": "1605",
         "processPrint": [
@@ -48554,7 +48557,8 @@
             "1606-ustawa.docx",
             "1606-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T18:06:03",
+        "changeDate": "2025-08-04T19:02:17",
+        "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-31",
         "number": "1606",
         "processPrint": [
@@ -48569,7 +48573,8 @@
             "1607-ustawa.docx",
             "1607-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T18:06:03",
+        "changeDate": "2025-08-04T19:02:16",
+        "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-29",
         "number": "1607",
         "processPrint": [
@@ -48584,7 +48589,8 @@
             "1608-ustawa.docx",
             "1608-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T18:06:04",
+        "changeDate": "2025-08-04T19:02:16",
+        "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-25",
         "number": "1608",
         "processPrint": [
@@ -48599,7 +48605,8 @@
             "1609-ustawa.docx",
             "1609-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T18:06:05",
+        "changeDate": "2025-08-04T19:02:17",
+        "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-29",
         "number": "1609",
         "processPrint": [
@@ -48614,7 +48621,8 @@
             "1610-ustawa.docx",
             "1610-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T18:06:05",
+        "changeDate": "2025-08-04T19:02:17",
+        "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-29",
         "number": "1610",
         "processPrint": [
@@ -48629,7 +48637,8 @@
             "1611-ustawa.docx",
             "1611-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T18:27:15",
+        "changeDate": "2025-08-04T19:02:17",
+        "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-30",
         "number": "1611",
         "processPrint": [
@@ -48644,7 +48653,8 @@
             "1612-ustawa.docx",
             "1612-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T18:39:51",
+        "changeDate": "2025-08-04T19:10:44",
+        "deliveryDate": "2025-08-04",
         "documentDate": "2025-08-01",
         "number": "1612",
         "processPrint": [
@@ -48659,7 +48669,8 @@
             "1613-ustawa.docx",
             "1613-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T18:06:06",
+        "changeDate": "2025-08-04T19:02:17",
+        "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-25",
         "number": "1613",
         "processPrint": [
@@ -48673,7 +48684,8 @@
             "1614.pdf",
             "1614-uchwała.odt"
         ],
-        "changeDate": "2025-08-04T18:27:17",
+        "changeDate": "2025-08-04T19:02:17",
+        "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-28",
         "number": "1614",
         "processPrint": [
@@ -48681,6 +48693,17 @@
         ],
         "term": 10,
         "title": "Poselski projekt uchwały w sprawie upamiętnienia Adama Chętnika w 140. rocznicę urodzin."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-08-04T19:09:31",
+        "documentDate": "2025-07-23",
+        "number": "1615",
+        "processPrint": [],
+        "term": 10,
+        "title": "Sprawozdanie z realizacji programu polityki zdrowotnej pn. \"Leczenie niepłodności obejmujące procedury medycznie wspomaganej prokreacji, w tym zapłodnienie pozaustrojowe prowadzone w ośrodku medycznie wspomaganej prokreacji, na lata 2024-2028\" za rok 2024."
     },
     {
         "attachments": [
