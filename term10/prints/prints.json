@@ -48522,24 +48522,54 @@
     },
     {
         "attachments": [
-            ""
+            "1608.pdf",
+            "1608-ustawa.docx",
+            "1608-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T17:23:15",
+        "changeDate": "2025-08-04T17:45:12",
         "documentDate": "2025-07-25",
         "number": "1608",
-        "processPrint": [],
+        "processPrint": [
+            "1608"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym."
     },
     {
         "attachments": [
-            ""
+            "1610.pdf",
+            "1610-ustawa.docx",
+            "1610-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T17:23:15",
+        "changeDate": "2025-08-04T17:35:52",
         "documentDate": "2025-07-29",
         "number": "1610",
-        "processPrint": [],
+        "processPrint": [
+            "1610"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy zmieniający ustawę o zmianie ustawy - Prawo pocztowe."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-08-04T17:41:42",
+        "documentDate": "2025-07-30",
+        "number": "1611",
+        "processPrint": [],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy o języku polskim."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-08-04T17:30:08",
+        "documentDate": "2025-07-25",
+        "number": "1613",
+        "processPrint": [],
+        "term": 10,
+        "title": "Poselski projekt ustawy o zmianie ustawy - Kodeks karny."
     }
 ]
