@@ -47656,7 +47656,7 @@
                 "attachments": [
                     "1529-002.pdf"
                 ],
-                "changeDate": "2025-08-04T17:23:07",
+                "changeDate": "2025-08-04T18:06:00",
                 "documentDate": "2025-07-25",
                 "number": "1529-002",
                 "numberAssociated": [
@@ -48402,6 +48402,20 @@
     },
     {
         "attachments": [
+            "1588.pdf",
+            "V8_2377-13.NK.docx"
+        ],
+        "changeDate": "2025-08-04T18:21:03",
+        "documentDate": "2025-08-04",
+        "number": "1588",
+        "processPrint": [
+            "1492"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Administracji i Spraw Wewnętrznych o rządowym projekcie ustawy o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
             "1589.pdf"
         ],
         "changeDate": "2025-08-04T15:42:28",
@@ -48427,6 +48441,20 @@
         ],
         "term": 10,
         "title": "Sprawozdanie Komisji do Spraw Deregulacji o uchwale Senatu w sprawie ustawy o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli komunikacyjnych oraz ustawy o ewidencji ludności."
+    },
+    {
+        "attachments": [
+            "1591.pdf"
+        ],
+        "changeDate": "2025-08-04T18:10:40",
+        "deliveryDate": "2025-08-04",
+        "documentDate": "2025-08-04",
+        "number": "1591",
+        "processPrint": [
+            "1184"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Gospodarki i Rozwoju o uchwale Senatu w sprawie ustawy o certyfikacji wykonawców zamówień publicznych."
     },
     {
         "attachments": [
@@ -48466,7 +48494,7 @@
             "1604-ustawa.docx",
             "1604-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T16:39:25",
+        "changeDate": "2025-08-04T18:06:01",
         "documentDate": "2025-07-30",
         "number": "1604",
         "processPrint": [
@@ -48481,7 +48509,7 @@
             "1605-ustawa.docx",
             "1605-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T16:56:18",
+        "changeDate": "2025-08-04T18:06:02",
         "documentDate": "2025-07-30",
         "number": "1605",
         "processPrint": [
@@ -48496,7 +48524,7 @@
             "1606-ustawa.docx",
             "1606-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T16:53:40",
+        "changeDate": "2025-08-04T18:06:03",
         "documentDate": "2025-07-31",
         "number": "1606",
         "processPrint": [
@@ -48511,7 +48539,7 @@
             "1607-ustawa.docx",
             "1607-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T17:14:40",
+        "changeDate": "2025-08-04T18:06:03",
         "documentDate": "2025-07-29",
         "number": "1607",
         "processPrint": [
@@ -48526,7 +48554,7 @@
             "1608-ustawa.docx",
             "1608-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T17:45:12",
+        "changeDate": "2025-08-04T18:06:04",
         "documentDate": "2025-07-25",
         "number": "1608",
         "processPrint": [
@@ -48537,11 +48565,26 @@
     },
     {
         "attachments": [
+            "1609.pdf",
+            "1609-ustawa.docx",
+            "1609-uzasadnienie.docx"
+        ],
+        "changeDate": "2025-08-04T18:06:05",
+        "documentDate": "2025-07-29",
+        "number": "1609",
+        "processPrint": [
+            "1609"
+        ],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw."
+    },
+    {
+        "attachments": [
             "1610.pdf",
             "1610-ustawa.docx",
             "1610-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T17:35:52",
+        "changeDate": "2025-08-04T18:06:05",
         "documentDate": "2025-07-29",
         "number": "1610",
         "processPrint": [
@@ -48552,12 +48595,16 @@
     },
     {
         "attachments": [
-            ""
+            "1611.pdf",
+            "1611-ustawa.docx",
+            "1611-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T17:41:42",
+        "changeDate": "2025-08-04T18:14:55",
         "documentDate": "2025-07-30",
         "number": "1611",
-        "processPrint": [],
+        "processPrint": [
+            "1611"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy o języku polskim."
     },
@@ -48565,11 +48612,40 @@
         "attachments": [
             ""
         ],
-        "changeDate": "2025-08-04T17:30:08",
-        "documentDate": "2025-07-25",
-        "number": "1613",
+        "changeDate": "2025-08-04T18:10:55",
+        "documentDate": "2025-08-01",
+        "number": "1612",
         "processPrint": [],
         "term": 10,
+        "title": "Rządowy projekt ustawy o pomocy państwa skierowanej do armatorów jednostek pływających w związku z wprowadzeniem zakazu połowu dorsza na Morzu Bałtyckim."
+    },
+    {
+        "attachments": [
+            "1613.pdf",
+            "1613-ustawa.docx",
+            "1613-uzasadnienie.docx"
+        ],
+        "changeDate": "2025-08-04T18:06:06",
+        "documentDate": "2025-07-25",
+        "number": "1613",
+        "processPrint": [
+            "1613"
+        ],
+        "term": 10,
         "title": "Poselski projekt ustawy o zmianie ustawy - Kodeks karny."
+    },
+    {
+        "attachments": [
+            "1614.pdf",
+            "1614-uchwała.odt"
+        ],
+        "changeDate": "2025-08-04T18:19:05",
+        "documentDate": "2025-07-28",
+        "number": "1614",
+        "processPrint": [
+            "1614"
+        ],
+        "term": 10,
+        "title": "Poselski projekt uchwały w sprawie upamiętnienia Adama Chętnika w 140. rocznicę urodzin."
     }
 ]
