@@ -47656,7 +47656,7 @@
                 "attachments": [
                     "1529-002.pdf"
                 ],
-                "changeDate": "2025-08-04T19:02:16",
+                "changeDate": "2025-08-04T19:50:56",
                 "deliveryDate": "2025-08-04",
                 "documentDate": "2025-07-25",
                 "number": "1529-002",
@@ -48012,7 +48012,7 @@
         "attachments": [
             "1550.pdf"
         ],
-        "changeDate": "2025-08-04T19:34:13",
+        "changeDate": "2025-08-04T19:51:55",
         "deliveryDate": "2025-08-04",
         "documentDate": "2025-08-04",
         "number": "1550",
@@ -48537,10 +48537,12 @@
         "attachments": [
             ""
         ],
-        "changeDate": "2025-08-04T19:23:12",
+        "changeDate": "2025-08-04T19:56:48",
         "documentDate": "2025-06-26",
         "number": "1603",
-        "processPrint": [],
+        "processPrint": [
+            "1603"
+        ],
         "term": 10,
         "title": "Obywatelski projekt ustawy o zmianie ustawy o systemie oświaty oraz ustawy - Prawo oświatowe."
     },
@@ -48550,7 +48552,7 @@
             "1604-ustawa.docx",
             "1604-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T19:02:16",
+        "changeDate": "2025-08-04T19:51:41",
         "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-30",
         "number": "1604",
@@ -48566,7 +48568,7 @@
             "1605-ustawa.docx",
             "1605-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T19:02:16",
+        "changeDate": "2025-08-04T19:51:18",
         "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-30",
         "number": "1605",
@@ -48582,7 +48584,7 @@
             "1606-ustawa.docx",
             "1606-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T19:02:17",
+        "changeDate": "2025-08-04T19:51:31",
         "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-31",
         "number": "1606",
@@ -48598,7 +48600,7 @@
             "1607-ustawa.docx",
             "1607-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T19:02:16",
+        "changeDate": "2025-08-04T19:51:06",
         "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-29",
         "number": "1607",
@@ -48614,7 +48616,7 @@
             "1608-ustawa.docx",
             "1608-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T19:02:16",
+        "changeDate": "2025-08-04T19:50:47",
         "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-25",
         "number": "1608",
@@ -48630,7 +48632,7 @@
             "1609-ustawa.docx",
             "1609-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T19:02:17",
+        "changeDate": "2025-08-04T19:50:01",
         "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-29",
         "number": "1609",
@@ -48646,7 +48648,7 @@
             "1610-ustawa.docx",
             "1610-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T19:02:17",
+        "changeDate": "2025-08-04T19:50:30",
         "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-29",
         "number": "1610",
@@ -48662,7 +48664,7 @@
             "1611-ustawa.docx",
             "1611-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T19:02:17",
+        "changeDate": "2025-08-04T19:50:11",
         "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-30",
         "number": "1611",
@@ -48694,7 +48696,7 @@
             "1613-ustawa.docx",
             "1613-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T19:02:17",
+        "changeDate": "2025-08-04T19:50:22",
         "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-25",
         "number": "1613",
@@ -48709,7 +48711,7 @@
             "1614.pdf",
             "1614-uchwała.odt"
         ],
-        "changeDate": "2025-08-04T19:02:17",
+        "changeDate": "2025-08-04T19:49:44",
         "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-28",
         "number": "1614",
@@ -48723,7 +48725,7 @@
         "attachments": [
             "1615.pdf"
         ],
-        "changeDate": "2025-08-04T19:34:13",
+        "changeDate": "2025-08-04T19:52:17",
         "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-23",
         "number": "1615",
@@ -48746,5 +48748,19 @@
         ],
         "term": 10,
         "title": "Sprawozdanie Komisji Finansów Publicznych oraz Komisji Obrony Narodowej o uchwale Senatu w sprawie ustawy o zmianie ustawy o weteranach działań poza granicami państwa, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o finansach publicznych."
+    },
+    {
+        "attachments": [
+            "1617.pdf"
+        ],
+        "changeDate": "2025-08-04T19:53:04",
+        "deliveryDate": "2025-08-04",
+        "documentDate": "2025-08-04",
+        "number": "1617",
+        "processPrint": [
+            "1407"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Finansów Publicznych o uchwale Senatu w sprawie ustawy o zmianie ustawy o podatku od towarów i usług oraz ustawy o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw."
     }
 ]
