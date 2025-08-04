@@ -48010,6 +48010,20 @@
     },
     {
         "attachments": [
+            "1550.pdf"
+        ],
+        "changeDate": "2025-08-04T19:34:13",
+        "deliveryDate": "2025-08-04",
+        "documentDate": "2025-08-04",
+        "number": "1550",
+        "processPrint": [
+            "610"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Rolnictwa i Rozwoju Wsi oraz Komisji Samorządu Terytorialnego i Polityki Regionalnej o poselskim projekcie ustawy o zmianie ustawy o samorządzie gminnym oraz ustawy o funduszu sołeckim."
+    },
+    {
+        "attachments": [
             "1551.pdf"
         ],
         "changeDate": "2025-07-25T11:28:57",
@@ -48521,6 +48535,17 @@
     },
     {
         "attachments": [
+            ""
+        ],
+        "changeDate": "2025-08-04T19:23:12",
+        "documentDate": "2025-06-26",
+        "number": "1603",
+        "processPrint": [],
+        "term": 10,
+        "title": "Obywatelski projekt ustawy o zmianie ustawy o systemie oświaty oraz ustawy - Prawo oświatowe."
+    },
+    {
+        "attachments": [
             "1604.pdf",
             "1604-ustawa.docx",
             "1604-uzasadnienie.docx"
@@ -48696,12 +48721,15 @@
     },
     {
         "attachments": [
-            ""
+            "1615.pdf"
         ],
-        "changeDate": "2025-08-04T19:09:31",
+        "changeDate": "2025-08-04T19:34:13",
+        "deliveryDate": "2025-08-04",
         "documentDate": "2025-07-23",
         "number": "1615",
-        "processPrint": [],
+        "processPrint": [
+            "1615"
+        ],
         "term": 10,
         "title": "Sprawozdanie z realizacji programu polityki zdrowotnej pn. \"Leczenie niepłodności obejmujące procedury medycznie wspomaganej prokreacji, w tym zapłodnienie pozaustrojowe prowadzone w ośrodku medycznie wspomaganej prokreacji, na lata 2024-2028\" za rok 2024."
     },
