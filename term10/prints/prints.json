@@ -48209,6 +48209,21 @@
     },
     {
         "attachments": [
+            "1574.pdf",
+            "V3_2613-0.PK.docx"
+        ],
+        "changeDate": "2025-08-04T18:48:51",
+        "deliveryDate": "2025-08-04",
+        "documentDate": "2025-08-04",
+        "number": "1574",
+        "processPrint": [
+            "909"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Polityki Społecznej i Rodziny o rządowym projekcie ustawy o ustalaniu wysokości emerytur z Funduszu Ubezpieczeń Społecznych ustalonych w czerwcu w latach 2009-2019 oraz rent rodzinnych po ubezpieczonych, którym ustalono emerytury w czerwcu w latach 2009-2019, o poselskim projekcie ustawy o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych."
+    },
+    {
+        "attachments": [
             "1575.pdf"
         ],
         "changeDate": "2025-08-01T13:36:25",
@@ -48405,7 +48420,8 @@
             "1588.pdf",
             "V8_2377-13.NK.docx"
         ],
-        "changeDate": "2025-08-04T18:21:03",
+        "changeDate": "2025-08-04T18:28:28",
+        "deliveryDate": "2025-08-04",
         "documentDate": "2025-08-04",
         "number": "1588",
         "processPrint": [
@@ -48455,6 +48471,20 @@
         ],
         "term": 10,
         "title": "Sprawozdanie Komisji Gospodarki i Rozwoju o uchwale Senatu w sprawie ustawy o certyfikacji wykonawców zamówień publicznych."
+    },
+    {
+        "attachments": [
+            "1594.pdf"
+        ],
+        "changeDate": "2025-08-04T18:52:42",
+        "deliveryDate": "2025-08-04",
+        "documentDate": "2025-08-04",
+        "number": "1594",
+        "processPrint": [
+            "17270-z"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Regulaminowej, Spraw Poselskich i Immunitetowych w sprawie wniosku z dnia 4 lipca 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Antoniego Macierewicza, przedłożonego przez prokuratora Prokuratury Okręgowej delegowanego do Prokuratury Krajowej, uzupełnionego w dniu 28 lipca 2025 r."
     },
     {
         "attachments": [
@@ -48599,7 +48629,7 @@
             "1611-ustawa.docx",
             "1611-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T18:14:55",
+        "changeDate": "2025-08-04T18:27:15",
         "documentDate": "2025-07-30",
         "number": "1611",
         "processPrint": [
@@ -48610,12 +48640,16 @@
     },
     {
         "attachments": [
-            ""
+            "1612.pdf",
+            "1612-ustawa.docx",
+            "1612-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T18:10:55",
+        "changeDate": "2025-08-04T18:39:51",
         "documentDate": "2025-08-01",
         "number": "1612",
-        "processPrint": [],
+        "processPrint": [
+            "1612"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o pomocy państwa skierowanej do armatorów jednostek pływających w związku z wprowadzeniem zakazu połowu dorsza na Morzu Bałtyckim."
     },
@@ -48639,7 +48673,7 @@
             "1614.pdf",
             "1614-uchwała.odt"
         ],
-        "changeDate": "2025-08-04T18:19:05",
+        "changeDate": "2025-08-04T18:27:17",
         "documentDate": "2025-07-28",
         "number": "1614",
         "processPrint": [
@@ -48647,5 +48681,19 @@
         ],
         "term": 10,
         "title": "Poselski projekt uchwały w sprawie upamiętnienia Adama Chętnika w 140. rocznicę urodzin."
+    },
+    {
+        "attachments": [
+            "1616.pdf"
+        ],
+        "changeDate": "2025-08-04T18:28:01",
+        "deliveryDate": "2025-08-04",
+        "documentDate": "2025-08-04",
+        "number": "1616",
+        "processPrint": [
+            "1280"
+        ],
+        "term": 10,
+        "title": "Sprawozdanie Komisji Finansów Publicznych oraz Komisji Obrony Narodowej o uchwale Senatu w sprawie ustawy o zmianie ustawy o weteranach działań poza granicami państwa, ustawy o podatku dochodowym od osób fizycznych oraz ustawy o finansach publicznych."
     }
 ]
