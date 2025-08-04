@@ -47398,23 +47398,6 @@
             },
             {
                 "attachments": [
-                    "1525-002.pdf"
-                ],
-                "changeDate": "2025-07-30T15:48:17",
-                "deliveryDate": "2025-07-30",
-                "documentDate": "2025-07-30",
-                "number": "1525-002",
-                "numberAssociated": [
-                    "1525"
-                ],
-                "processPrint": [
-                    "1525"
-                ],
-                "term": 10,
-                "title": "Do druku nr 1525 - opinia  SGiPW."
-            },
-            {
-                "attachments": [
                     "1525-003.pdf"
                 ],
                 "changeDate": "2025-08-04T09:52:26",
@@ -47668,6 +47651,22 @@
                 ],
                 "term": 10,
                 "title": "Do druku nr 1529 - opinia Gminy Tarłów"
+            },
+            {
+                "attachments": [
+                    "1529-002.pdf"
+                ],
+                "changeDate": "2025-08-04T17:23:07",
+                "documentDate": "2025-07-25",
+                "number": "1529-002",
+                "numberAssociated": [
+                    "1529"
+                ],
+                "processPrint": [
+                    "1529"
+                ],
+                "term": 10,
+                "title": "Do druku nr 1529 - opinia SGiPW"
             }
         ],
         "attachments": [
@@ -48508,13 +48507,39 @@
     },
     {
         "attachments": [
-            ""
+            "1607.pdf",
+            "1607-ustawa.docx",
+            "1607-uzasadnienie.docx"
         ],
-        "changeDate": "2025-08-04T16:53:22",
+        "changeDate": "2025-08-04T17:14:40",
         "documentDate": "2025-07-29",
         "number": "1607",
-        "processPrint": [],
+        "processPrint": [
+            "1607"
+        ],
         "term": 10,
         "title": "Rządowy projekt ustawy o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-08-04T17:23:15",
+        "documentDate": "2025-07-25",
+        "number": "1608",
+        "processPrint": [],
+        "term": 10,
+        "title": "Rządowy projekt ustawy o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym."
+    },
+    {
+        "attachments": [
+            ""
+        ],
+        "changeDate": "2025-08-04T17:23:15",
+        "documentDate": "2025-07-29",
+        "number": "1610",
+        "processPrint": [],
+        "term": 10,
+        "title": "Rządowy projekt ustawy zmieniający ustawę o zmianie ustawy - Prawo pocztowe."
     }
 ]
